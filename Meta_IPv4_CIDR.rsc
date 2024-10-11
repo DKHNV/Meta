@@ -1,7 +1,6 @@
 #Created by DKHNV
 #Gen1 05-10-2024
 /ip firewall address-list		
-add list=Meta address=	94.140.14.14	comment=Meta
 add list=Meta address=	216.239.32.223	comment=Meta
 add list=Meta address=	157.240.201.63	comment=Meta
 add list=Meta address=	157.240.201.2	comment=Meta
@@ -95,7 +94,6 @@ add list=Meta address=	74.125.108.232	comment=Meta
 add list=Meta address=	142.250.179.161	comment=Meta
 add list=Meta address=	172.217.168.195	comment=Meta
 add list=Meta address=	34.104.35.123	comment=Meta
-add list=Meta address=	94.140.15.15	comment=Meta
 add list=Meta address=	142.250.102.188	comment=Meta
 add list=Meta address=	157.185.128.14	comment=Meta
 add list=Meta address=	172.217.168.227	comment=Meta
