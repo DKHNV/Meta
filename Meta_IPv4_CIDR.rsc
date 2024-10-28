@@ -106,7 +106,7 @@ add list=Meta address=	142.250.180.234	comment=Meta
 add list=Meta address=	52.35.146.2	comment=Meta
 
 #Gen1 - 28.10.2024 - Netflix
-add list=Meta address=	netfix.com	comment=Meta
+add list=Meta address=	netflix.com	comment=Meta
 add list=Meta address=	54.76.138.123	comment=Meta
 add list=Meta address=	45.57.91.1	comment=Meta
 add list=Meta address=	54.217.35.13	comment=Meta
