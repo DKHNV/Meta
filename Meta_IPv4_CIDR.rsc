@@ -1,7 +1,6 @@
 #Created by DKHNV
 #Gen2 22.10.2024
 /ip firewall address-list		
-add list=Meta address=	157.240.224.63	comment=Meta
 add list=Meta address=	195.13.189.97	comment=Meta
 add list=Meta address=	157.240.247.12	comment=Meta
 add list=Meta address=	157.240.224.7	comment=Meta
@@ -10,23 +9,13 @@ add list=Meta address=	157.240.201.34	comment=Meta
 add list=Meta address=	157.240.224.11	comment=Meta
 add list=Meta address=	157.240.224.34	comment=Meta
 add list=Meta address=	57.144.110.144	comment=Meta
-add list=Meta address=	142.251.208.174	comment=Meta
-add list=Meta address=	157.240.224.12	comment=Meta
 add list=Meta address=	157.240.224.175	comment=Meta
 add list=Meta address=	57.144.110.36	comment=Meta
 add list=Meta address=	31.13.65.175	comment=Meta
 add list=Meta address=	195.13.189.81	comment=Meta
-add list=Meta address=	82.156.140.19	comment=Meta
-add list=Meta address=	216.239.32.223	comment=Meta
-add list=Meta address=	142.251.208.138	comment=Meta
 add list=Meta address=	142.251.39.22	comment=Meta
 add list=Meta address=	74.125.206.84	comment=Meta
-add list=Meta address=	142.250.201.206	comment=Meta
-add list=Meta address=	142.251.208.170	comment=Meta
-add list=Meta address=	142.250.201.195	comment=Meta
-add list=Meta address=	216.239.34.223	comment=Meta
 add list=Meta address=	195.122.31.161	comment=Meta
-add list=Meta address=	43.157.69.98	comment=Meta
 add list=Meta address=	157.240.224.35	comment=Meta
 add list=Meta address=	57.144.136.5	comment=Meta
 add list=Meta address=	157.240.235.39	comment=Meta
@@ -114,17 +103,15 @@ add list=Meta address=	31.13.69.39	comment=Meta
 add list=Meta address=	163.70.149.40	comment=Meta
 add list=Meta address=	216.239.36.223	comment=Meta
 add list=Meta address=	142.250.180.234	comment=Meta
-add list=Meta address=	142.251.208.106	comment=Meta
-add list=Meta address=	216.239.38.223	comment=Meta
-add list=Meta address=	142.251.39.74	comment=Meta
 add list=Meta address=	52.35.146.2	comment=Meta
-add list=Meta address=	172.217.20.3	comment=Meta
-add list=Meta address=	142.250.180.202	comment=Meta
-add list=Meta address=	172.217.20.22	comment=Meta
-add list=Meta address=	142.251.39.10	comment=Meta
-add list=Meta address=	172.217.20.10	comment=Meta
+
 #Gen1 - 28.10.2024 - Netflix
-add list=Meta address=	netflix.com	comment=Netflix
+add list=Meta address=	netfix.com	comment=Meta
+add list=Meta address=	54.76.138.123	comment=Meta
+add list=Meta address=	45.57.91.1	comment=Meta
+add list=Meta address=	54.217.35.13	comment=Meta
+add list=Meta address=	142.251.39.67	comment=Meta
+add list=Meta address=	142.251.208.182	comment=Meta
 add list=Meta address=	45.57.90.1	comment=Meta
 add list=Meta address=	52.211.238.216	comment=Meta
 add list=Meta address=	82.156.140.19	comment=Meta
@@ -133,7 +120,6 @@ add list=Meta address=	54.73.239.34	comment=Meta
 add list=Meta address=	45.57.40.1	comment=Meta
 add list=Meta address=	52.16.16.21	comment=Meta
 add list=Meta address=	80.232.236.90	comment=Meta
-add list=Meta address=	172.217.20.10	comment=Meta
 add list=Meta address=	142.250.201.206	comment=Meta
 add list=Meta address=	80.232.236.70	comment=Meta
 add list=Meta address=	80.232.236.66	comment=Meta
@@ -149,15 +135,10 @@ add list=Meta address=	45.9.24.83	comment=Meta
 add list=Meta address=	94.139.253.237	comment=Meta
 add list=Meta address=	43.154.252.110	comment=Meta
 add list=Meta address=	142.251.208.174	comment=Meta
-add list=Meta address=	172.217.20.3	comment=Meta
 add list=Meta address=	216.239.34.223	comment=Meta
-add list=Meta address=	216.239.38.223	comment=Meta
-add list=Meta address=	138.113.100.16	comment=Meta
 add list=Meta address=	142.251.208.164	comment=Meta
-add list=Meta address=	142.250.180.195	comment=Meta
 add list=Meta address=	74.125.206.188	comment=Meta
 add list=Meta address=	142.250.141.188	comment=Meta
-add list=Meta address=	163.171.137.16	comment=Meta
 add list=Meta address=	54.229.152.140	comment=Meta
 add list=Meta address=	34.252.28.38	comment=Meta
 add list=Meta address=	54.75.137.188	comment=Meta
@@ -166,7 +147,6 @@ add list=Meta address=	45.57.41.1	comment=Meta
 add list=Meta address=	54.217.21.108	comment=Meta
 add list=Meta address=	142.251.39.54	comment=Meta
 add list=Meta address=	142.250.180.202	comment=Meta
-add list=Meta address=	74.125.71.84	comment=Meta
 add list=Meta address=	142.250.201.202	comment=Meta
 add list=Meta address=	142.250.201.195	comment=Meta
 add list=Meta address=	34.104.35.123	comment=Meta
@@ -187,7 +167,6 @@ add list=Meta address=	139.45.205.11	comment=Meta
 add list=Meta address=	3.255.31.202	comment=Meta
 add list=Meta address=	43.158.3.142	comment=Meta
 add list=Meta address=	142.251.208.131	comment=Meta
-add list=Meta address=	20.166.89.152	comment=Meta
 add list=Meta address=	142.251.39.86	comment=Meta
 add list=Meta address=	142.251.39.42	comment=Meta
 add list=Meta address=	157.240.224.63	comment=Meta
@@ -196,8 +175,6 @@ add list=Meta address=	61.149.22.155	comment=Meta
 add list=Meta address=	62.234.0.197	comment=Meta
 add list=Meta address=	89.232.167.221	comment=Meta
 add list=Meta address=	124.64.206.249	comment=Meta
-add list=Meta address=	202.106.20.206	comment=Meta
-add list=Meta address=	49.7.71.58	comment=Meta
 add list=Meta address=	54.216.227.219	comment=Meta
 add list=Meta address=	52.212.99.156	comment=Meta
 add list=Meta address=	52.19.109.21	comment=Meta
@@ -205,8 +182,6 @@ add list=Meta address=	142.250.180.238	comment=Meta
 add list=Meta address=	142.251.208.106	comment=Meta
 add list=Meta address=	54.220.241.189	comment=Meta
 add list=Meta address=	35.91.218.188	comment=Meta
-add list=Meta address=	49.7.105.177	comment=Meta
-add list=Meta address=	49.7.105.208	comment=Meta
 add list=Meta address=	49.7.106.18	comment=Meta
 add list=Meta address=	54.246.169.239	comment=Meta
 add list=Meta address=	195.13.211.143	comment=Meta
