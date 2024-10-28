@@ -220,3 +220,10 @@ add list=Meta address=	74.125.173.40	comment=Meta
 add list=Meta address=	142.251.39.78	comment=Meta
 add list=Meta address=	74.125.11.104	comment=Meta
 add list=Meta address=	74.125.111.9	comment=Meta
+add list=Meta address=	104.18.32.137	comment=Meta
+add list=Meta address=	216.239.32.181	comment=Meta
+add list=Meta address=	45.57.91.1	comment=Meta
+add list=Meta address=	104.17.25.14	comment=Meta
+add list=Meta address=	142.251.208.110	comment=Meta
+add list=Meta address=	52.31.48.193	comment=Meta
+add list=Meta address=	162.159.129.11	comment=Meta
