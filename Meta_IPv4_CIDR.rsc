@@ -1,7 +1,6 @@
 #Created by DKHNV
 #Gen2 22.10.2024
 /ip firewall address-list		
-add list=Meta address=	99.9.9.9	comment=Test
 add list=Meta address=	195.13.189.97	comment=Meta
 add list=Meta address=	157.240.247.12	comment=Meta
 add list=Meta address=	157.240.224.7	comment=Meta
