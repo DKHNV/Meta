@@ -2,6 +2,7 @@
 #Gen4 01.05.2025
 /ip firewall address-list
 
+add list=Meta address=	23.63.242.80	comment=Meta
 add list=Meta address=	23.63.242.81	comment=Meta
 add list=Meta address=	23.63.242.82	comment=Meta
 add list=Meta address=	23.63.242.83	comment=Meta
