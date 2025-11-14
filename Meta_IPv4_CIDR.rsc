@@ -1,7 +1,8 @@
 #Created by DKHNV		
-#Gen4 01.05.2025		
+#Gen4 15.11.2025	
 /ip firewall address-list		
 		
+add list=Meta address=	157.240.0.0/16	comment=Meta
 add list=Meta address=	24.30.201.53	comment=Meta
 add list=Meta address=	31.13.66.10	comment=Meta
 add list=Meta address=	31.13.66.18	comment=Meta
