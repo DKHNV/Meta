@@ -1,5 +1,5 @@
 #Created by DKHNV		
-#Gen5 15.11.2025	
+#Gen6 16.11.2025	
 /ip firewall address-list
 
 add list=Meta address=	157.240.0.0/16	comment=Meta
@@ -23,7 +23,6 @@ add list=Meta address=	129.134.30.0/23	comment=Meta
 add list=Meta address=	129.134.96.0/19	comment=Meta
 add list=Meta address=	132.245.230.0/23	comment=Meta
 add list=Meta address=	142.250.0.0/16	comment=Meta
-add list=Meta address=	157.240.0.0/16	comment=Meta
 add list=Meta address=	162.158.232.0/23	comment=Meta
 add list=Meta address=	162.159.128.0/18	comment=Meta
 add list=Meta address=	163.70.128.0/17	comment=Meta
@@ -35,3 +34,16 @@ add list=Meta address=	185.15.210.0/23	comment=Meta
 add list=Meta address=	185.60.218.0/23	comment=Meta
 add list=Meta address=	212.94.226.0/23	comment=Meta
 add list=Meta address=	216.58.206.0/23	comment=Meta
+add list=Meta address=	8.6.112.0/23	comment=Meta
+add list=Meta address=	8.47.68.0/23	comment=Meta
+add list=Meta address=	13.248.168.0/23	comment=Meta
+add list=Meta address=	23.227.38.0/23	comment=Meta
+add list=Meta address=	34.126.226.0/23	comment=Meta
+add list=Meta address=	52.96.0.0/14	comment=Meta
+add list=Meta address=	76.223.54.0/23	comment=Meta
+add list=Meta address=	104.16.0.0/12	comment=Meta
+add list=Meta address=	142.248.0.0/14	comment=Meta
+add list=Meta address=	172.64.0.0/13	comment=Meta
+add list=Meta address=	185.104.28.0/23	comment=Meta
+add list=Meta address=	188.114.96.0/21	comment=Meta
+add list=Meta address=	216.58.192.0/19	comment=Meta
