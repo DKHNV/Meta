@@ -1,5 +1,5 @@
 #Created by DKHNV		
-#Gen6 16.11.2025	
+#Gen7 16.11.2025	
 /ip firewall address-list
 
 add list=Meta address=	157.240.0.0/16	comment=Meta
