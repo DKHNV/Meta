@@ -1,0 +1,30 @@
+name: DNS maintenance v1
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run checks only; do not modify or commit managed Meta DNS state"
+        required: false
+        default: true
+        type: boolean
+
+  schedule:
+    - cron: "37 5,11,17,23 * * *"
+      timezone: "Europe/Helsinki"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dns-maintenance-meta-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  maintain:
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@c8696805dbdafe8e368b394dc5f21097455352c5
+    with:
+      config_path: dns-maintenance-v1.json
+      collection: meta
+      dry_run: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+      engine_ref: c8696805dbdafe8e368b394dc5f21097455352c5
