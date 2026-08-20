@@ -42,8 +42,64 @@
       "active_file": "Meta_DNS",
       "data_dir": "dns/meta",
       "discovery": {
-        "enabled": false,
-        "sources": []
+        "enabled": true,
+        "sources": [
+          {
+            "type": "certspotter",
+            "id": "facebook-core",
+            "roots": [
+              "facebook.com"
+            ],
+            "max_pages_per_root": 3,
+            "request_timeout_seconds": 30.0,
+            "user_agent": "DKHNV-DNS-Maintenance/1.0"
+          },
+          {
+            "type": "certspotter",
+            "id": "facebook-infra",
+            "roots": [
+              "facebook.net",
+              "fbcdn.net",
+              "fbcdn.com",
+              "fbsbx.com"
+            ],
+            "max_pages_per_root": 1,
+            "request_timeout_seconds": 30.0,
+            "user_agent": "DKHNV-DNS-Maintenance/1.0"
+          },
+          {
+            "type": "certspotter",
+            "id": "instagram-core",
+            "roots": [
+              "instagram.com"
+            ],
+            "max_pages_per_root": 3,
+            "request_timeout_seconds": 30.0,
+            "user_agent": "DKHNV-DNS-Maintenance/1.0"
+          },
+          {
+            "type": "certspotter",
+            "id": "instagram-infra",
+            "roots": [
+              "cdninstagram.com"
+            ],
+            "max_pages_per_root": 2,
+            "request_timeout_seconds": 30.0,
+            "user_agent": "DKHNV-DNS-Maintenance/1.0"
+          },
+          {
+            "type": "certspotter",
+            "id": "whatsapp-core",
+            "roots": [
+              "whatsapp.com",
+              "whatsapp.net",
+              "wa.me"
+            ],
+            "max_pages_per_root": 3,
+            "request_timeout_seconds": 30.0,
+            "user_agent": "DKHNV-DNS-Maintenance/1.0"
+          }
+        ]
       }
     }
   ]
