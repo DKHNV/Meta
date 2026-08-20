@@ -15,8 +15,10 @@ b-api.facebook.com
 b-graph.facebook.com
 badge.facebook.com
 beta.facebook.com
+beta.facebook.net
 blog.instagram.com
 business.instagram.com
+cloud.x2p.facebook.net
 code.facebook.com
 community.instagram.com
 connect.facebook.com
@@ -71,6 +73,7 @@ m.facebook.com
 m.intern.facebook.com
 m.internmc.facebook.com
 maps.instagram.com
+mirror.facebook.net
 newsroom.fb.com
 p.facebook.com
 payments.facebook.com
@@ -147,6 +150,7 @@ secure.latest.facebook.com
 secure.prod.facebook.com
 secure.trunkstable.facebook.com
 shortwave.facebook.com
+socialplugin.facebook.net
 sonar-iad.xx.fbcdn.net
 star.facebook.com
 static.xx.fbcdn.net

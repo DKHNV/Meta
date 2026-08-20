@@ -678,6 +678,7 @@ scontent-b-pao.xx.fbcdn.net
 scontent-sjc2-1.xx.fbcdn.net
 scontent.fsjc1-2.fna.fbcdn.net
 scontent.fsnc1-1.fna.fbcdn.net
+silfra.facebook.net
 smtpin.vvv.facebook.com
 snaptu-d-shv-05-frc3.facebook.com
 snaptu-d-shv-10-frc1.facebook.com

@@ -295,6 +295,7 @@ beta-shv-03-lla1.facebook.com
 beta-shv-04-prn2.facebook.com
 beta-shv-09-frc1.facebook.com
 beta.facebook.com
+beta.facebook.net
 beta.vvv.facebook.com
 betanet-shv-03-atn1.facebook.com
 betanet-shv-03-lla1.facebook.com
@@ -312,6 +313,7 @@ channel-proxy-shv-06-ash2.facebook.com
 channel-proxy-shv-07-ash2.facebook.com
 channel-proxy-shv-13-prn1.facebook.com
 channel-proxy-test-shv-07-ash2.facebook.com
+cloud.x2p.facebook.net
 code.facebook.com
 community.instagram.com
 connect.facebook.com
@@ -692,6 +694,7 @@ m.facebook.com
 m.intern.facebook.com
 m.internmc.facebook.com
 maps.instagram.com
+mirror.facebook.net
 mqtt.c10r.facebook.com
 mqtt.vvv.facebook.com
 ncontent.xx.fbcdn.net
@@ -827,9 +830,11 @@ secure.latest.facebook.com
 secure.prod.facebook.com
 secure.trunkstable.facebook.com
 shortwave.facebook.com
+silfra.facebook.net
 smtpin.vvv.facebook.com
 snaptu-d-shv-05-frc3.facebook.com
 snaptu-d-shv-10-frc1.facebook.com
+socialplugin.facebook.net
 sonar-iad.xx.fbcdn.net
 sphotos-a-ams.xx.fbcdn.net
 sphotos-a-atl.xx.fbcdn.net

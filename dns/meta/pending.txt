@@ -1,8 +1,12 @@
+c2p.facebook.net
+callagen.lab.x2p.facebook.net
 cdninstagram.com
 dewey-lfs.vip.facebook.com
 dewey.vip.facebook.com
+extern-silfra.facebook.net
 internmcr.facebook.com
 llama-ztp.corp.facebook.com
+manifold.facebook.net
 msgin.vvv.facebook.com
 newdev.facebook.com
 rampart.facebook.com
