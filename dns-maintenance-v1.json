@@ -50,7 +50,7 @@
             "roots": [
               "facebook.com"
             ],
-            "max_pages_per_root": 3,
+            "max_pages_per_root": 1,
             "request_timeout_seconds": 30.0,
             "user_agent": "DKHNV-DNS-Maintenance/1.0"
           },
@@ -73,7 +73,7 @@
             "roots": [
               "instagram.com"
             ],
-            "max_pages_per_root": 3,
+            "max_pages_per_root": 1,
             "request_timeout_seconds": 30.0,
             "user_agent": "DKHNV-DNS-Maintenance/1.0"
           },
@@ -83,7 +83,7 @@
             "roots": [
               "cdninstagram.com"
             ],
-            "max_pages_per_root": 2,
+            "max_pages_per_root": 1,
             "request_timeout_seconds": 30.0,
             "user_agent": "DKHNV-DNS-Maintenance/1.0"
           },
@@ -95,7 +95,7 @@
               "whatsapp.net",
               "wa.me"
             ],
-            "max_pages_per_root": 3,
+            "max_pages_per_root": 1,
             "request_timeout_seconds": 30.0,
             "user_agent": "DKHNV-DNS-Maintenance/1.0"
           }
