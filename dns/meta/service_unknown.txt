@@ -295,7 +295,6 @@ channel-proxy-shv-13-prn1.facebook.com
 channel-proxy-test-shv-07-ash2.facebook.com
 connect.facebook.net.edgekey.net
 d.vvv.facebook.com
-dev.facebook.com
 dev.vvv.facebook.com
 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
 edge-atlas-proxyprotocol-shv-03-ash5.facebook.com
@@ -561,7 +560,6 @@ fbcdn.com
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 h-ct-m-fbx.fbsbx.com.online-metrix.net
 herningrideklub.netscontent-a-ams.xx.fbcdn.net
-hr.facebook.com
 images.instagram.com
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
