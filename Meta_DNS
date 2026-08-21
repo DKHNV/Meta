@@ -2,8 +2,11 @@ alpha.facebook.com
 alpha.intern.facebook.com
 api.instagram.com
 beta.facebook.com
+beta.facebook.net
+cloud.x2p.facebook.net
 connect.facebook.net
 cstools.facebook.com
+email.user-research.whatsapp.com
 extern.facebook.com
 facebook.com
 fb.alpha.facebook.com
@@ -20,6 +23,7 @@ m.beta.facebook.com
 m.facebook.com
 m.intern.facebook.com
 m.internmc.facebook.com
+mirror.facebook.net
 p.facebook.com
 payments.facebook.com
 prod.facebook.com
@@ -33,6 +37,7 @@ secure.prod.facebook.com
 secure.trunkstable.facebook.com
 shortwave.facebook.com
 smtpin.vvv.facebook.com
+socialplugin.facebook.net
 trunkstable.facebook.com
 wa.me
 web.whatsapp.com

@@ -1,13 +1,13 @@
 # Meta DNS Maintenance Report
 
-Generated: `2026-08-21T08:46:23Z`
+Generated: `2026-08-21T09:10:25Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 43 |
-| Pending | 26 |
+| Active | 48 |
+| Pending | 31 |
 | Suspect | 0 |
 | Quarantine | 0 |
 | Expired | 0 |
@@ -16,7 +16,7 @@ Generated: `2026-08-21T08:46:23Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 42 |
+| Alive | 47 |
 | Unknown | 1 |
 | Suspect | 0 |
 | Dead | 0 |
@@ -25,8 +25,8 @@ Generated: `2026-08-21T08:46:23Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **43**
-Average stability: **97.7%**
+Measured hosts: **48**
+Average stability: **97.9%**
 
 ## Current HTTPS/TLS failures
 
@@ -38,11 +38,11 @@ Average stability: **97.7%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `smtpin.vvv.facebook.com` | unknown | `2026-08-21T08:46:23Z` | 1 | TIMEOUT | 173.252.82.250, 173.252.87.251, 66.220.149.251 | 0.0 | 1 |
+| `smtpin.vvv.facebook.com` | unknown | `2026-08-21T08:46:23Z` | 2 | TIMEOUT | 66.220.149.251 | 0.0 | 2 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-21T08:46:23Z`
+Discovery state updated: `2026-08-21T09:10:25Z`
 
 ## Notes
 
