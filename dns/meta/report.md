@@ -1,6 +1,6 @@
 # Meta DNS Maintenance Report
 
-Generated: `2026-08-27T23:54:48Z`
+Generated: `2026-08-28T14:33:21Z`
 
 ## DNS lifecycle
 
@@ -8,8 +8,8 @@ Generated: `2026-08-27T23:54:48Z`
 |---|---:|
 | Active | 50 |
 | Pending | 0 |
-| Suspect | 31 |
-| Quarantine | 0 |
+| Suspect | 0 |
+| Quarantine | 31 |
 | Expired | 0 |
 
 ## HTTPS/TLS observation
@@ -18,8 +18,8 @@ Generated: `2026-08-27T23:54:48Z`
 |---|---:|
 | Alive | 48 |
 | Unknown | 1 |
-| Suspect | 1 |
-| Dead | 0 |
+| Suspect | 0 |
+| Dead | 1 |
 
 ## Stability window
 
@@ -38,12 +38,12 @@ Average stability: **96.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `msgin-regional.vvv.facebook.com` | unknown | `2026-08-27T00:00:46Z` | 3 | TIMEOUT | 173.252.82.250, 173.252.87.251, 66.220.149.251 | 0.0 | 3 |
-| `smtpin.vvv.facebook.com` | suspect | `2026-08-21T08:46:23Z` | 26 | TIMEOUT | 173.252.87.251, 66.220.149.251 | 0.0 | 26 |
+| `msgin-regional.vvv.facebook.com` | unknown | `2026-08-27T00:00:46Z` | 4 | TIMEOUT | 173.252.87.251, 66.220.149.251 | 0.0 | 4 |
+| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 27 | TIMEOUT | 173.252.87.251, 66.220.149.251 | 0.0 | 27 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-27T23:54:48Z`
+Discovery state updated: `2026-08-28T14:33:21Z`
 
 ## Notes
 
