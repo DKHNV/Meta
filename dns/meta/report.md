@@ -1,6 +1,6 @@
 # Meta DNS Maintenance Report
 
-Generated: `2026-08-28T23:38:57Z`
+Generated: `2026-08-29T09:19:49Z`
 
 ## DNS lifecycle
 
@@ -38,12 +38,12 @@ Average stability: **96.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `msgin-regional.vvv.facebook.com` | unknown | `2026-08-27T00:00:46Z` | 5 | TIMEOUT | 173.252.87.251, 66.220.149.251 | 0.0 | 5 |
-| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 28 | TIMEOUT | 173.252.82.250, 66.220.149.251 | 0.0 | 28 |
+| `msgin-regional.vvv.facebook.com` | unknown | `2026-08-27T00:00:46Z` | 6 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 6 |
+| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 29 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 29 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-28T23:38:57Z`
+Discovery state updated: `2026-08-29T09:19:49Z`
 
 ## Notes
 
