@@ -9,4 +9,4 @@ add list=meta address=163.114.130.0/24 comment=meta
 add list=meta address=163.114.132.0/24 comment=meta
 add list=meta address=173.252.82.0/24 comment=meta
 add list=meta address=173.252.87.0/24 comment=meta
-add list=meta address=173.252.95.0/24 comment=meta
+add list=meta address=173.252.127.0/24 comment=meta
