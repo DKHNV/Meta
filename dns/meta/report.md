@@ -1,6 +1,6 @@
 # Meta DNS Maintenance Report
 
-Generated: `2026-08-29T17:51:15Z`
+Generated: `2026-08-29T19:12:56Z`
 
 ## DNS lifecycle
 
@@ -10,6 +10,7 @@ Generated: `2026-08-29T17:51:15Z`
 | Pending | 0 |
 | Suspect | 0 |
 | Quarantine | 31 |
+| Excluded | 0 |
 | Expired | 0 |
 
 ## HTTPS/TLS observation
@@ -38,15 +39,16 @@ Average stability: **96.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `msgin-regional.vvv.facebook.com` | unknown | `2026-08-27T00:00:46Z` | 7 | TIMEOUT | 173.252.82.250, 173.252.87.251, 66.220.149.251 | 0.0 | 7 |
-| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 30 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 30 |
+| `msgin-regional.vvv.facebook.com` | unknown | `2026-08-27T00:00:46Z` | 8 | TIMEOUT | 173.252.82.250, 66.220.149.251 | 0.0 | 8 |
+| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 31 | TIMEOUT | 173.252.82.250, 66.220.149.251 | 0.0 | 31 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-29T17:51:15Z`
+Discovery state updated: `2026-08-29T19:12:56Z`
 
 ## Notes
 
 - Public active DNS file: `Meta_DNS`.
 - DNS lifecycle is time-based and does not depend on how many times per day the workflow runs.
+- Hostname policy exclusions are semantic decisions and are tracked separately from DNS quarantine.
 - HTTPS/TLS health is observational and never removes a hostname from the public DNS file.
