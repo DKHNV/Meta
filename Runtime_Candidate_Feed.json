@@ -1,0 +1,125 @@
+{
+  "candidates": [
+    {
+      "active_cycles": 0,
+      "candidate_id": "e419eecc06de0b5991e468863485e0e7695b93d73dbf7c4414b3363fc4d66592",
+      "current_presence": true,
+      "current_routing_status": "grace",
+      "first_observed": "2026-08-29T19:36:36Z",
+      "hostname": "connect.facebook.net",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T19:32:11Z",
+      "last_observed": "2026-08-29T19:36:36Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "facebook.net"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "4c687cb9a6f1471ae5dadcc1bcb79580d0c10e1b9ce3a710ddcbe83ebece7d65",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T19:36:36Z",
+      "hostname": "graph.facebook.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T19:35:18Z",
+      "last_observed": "2026-08-29T19:36:36Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "facebook.com"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "00e19d9bae7dce064dcda7b50070fcc25f9a3322967aeea6e429cf126fc49c12",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T19:36:36Z",
+      "hostname": "web.whatsapp.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T19:36:22Z",
+      "last_observed": "2026-08-29T19:36:36Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "whatsapp.com"
+    },
+    {
+      "active_cycles": 0,
+      "candidate_id": "622b6d5d27a5ca33e178e6e7a27cf09513171101d1c19c9d695f9cbfbd919490",
+      "current_presence": true,
+      "current_routing_status": "grace",
+      "first_observed": "2026-08-29T19:36:36Z",
+      "hostname": "www.facebook.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T19:36:17Z",
+      "last_observed": "2026-08-29T19:36:36Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "facebook.com"
+    },
+    {
+      "active_cycles": 1,
+      "candidate_id": "899f426fb48762e07a38df3b9377fee5ce775158f766dc9729d7ba783ecd0ec5",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-29T19:36:36Z",
+      "hostname": "www.instagram.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T19:33:16Z",
+      "last_observed": "2026-08-29T19:36:36Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "instagram.com"
+    },
+    {
+      "active_cycles": 0,
+      "candidate_id": "b15d8f769eb22d837b651a206f0f839fd44e4aac0d0bb044e13feedb9077e42e",
+      "current_presence": true,
+      "current_routing_status": "grace",
+      "first_observed": "2026-08-29T19:36:36Z",
+      "hostname": "z-m-gateway.facebook.com",
+      "id_version": 1,
+      "last_external_at": "2026-08-29T19:32:29Z",
+      "last_observed": "2026-08-29T19:36:36Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-29"
+      ],
+      "state": "observed",
+      "suffix": "facebook.com"
+    }
+  ],
+  "content_hash": "14fbe882fd69f24ca3b46edec83af8478be4c08313a32cda498a936a3a9f0fef",
+  "generated_at": "2026-08-29T19:36:36Z",
+  "hash_algorithm": "sha256",
+  "history_scope": "since_analytics_start",
+  "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
+  "schema_version": 1,
+  "service": "meta"
+}
