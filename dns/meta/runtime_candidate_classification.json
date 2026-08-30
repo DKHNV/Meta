@@ -1,7 +1,7 @@
 {
   "candidates": {
     "00e19d9bae7dce064dcda7b50070fcc25f9a3322967aeea6e429cf126fc49c12": {
-      "classified_at": "2026-08-30T10:43:57Z",
+      "classified_at": "2026-08-30T13:57:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 3,
@@ -23,7 +23,7 @@
       "version": 1
     },
     "4c687cb9a6f1471ae5dadcc1bcb79580d0c10e1b9ce3a710ddcbe83ebece7d65": {
-      "classified_at": "2026-08-30T10:43:57Z",
+      "classified_at": "2026-08-30T13:57:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 10,
@@ -45,7 +45,7 @@
       "version": 1
     },
     "622b6d5d27a5ca33e178e6e7a27cf09513171101d1c19c9d695f9cbfbd919490": {
-      "classified_at": "2026-08-30T10:43:57Z",
+      "classified_at": "2026-08-30T13:57:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 4,
@@ -67,7 +67,7 @@
       "version": 1
     },
     "899f426fb48762e07a38df3b9377fee5ce775158f766dc9729d7ba783ecd0ec5": {
-      "classified_at": "2026-08-30T10:43:57Z",
+      "classified_at": "2026-08-30T13:57:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 3,
@@ -89,7 +89,7 @@
       "version": 1
     },
     "b15d8f769eb22d837b651a206f0f839fd44e4aac0d0bb044e13feedb9077e42e": {
-      "classified_at": "2026-08-30T10:43:57Z",
+      "classified_at": "2026-08-30T13:57:33Z",
       "decision": "observed",
       "eligibility": {
         "criteria": {
@@ -127,7 +127,7 @@
       "version": 1
     },
     "e419eecc06de0b5991e468863485e0e7695b93d73dbf7c4414b3363fc4d66592": {
-      "classified_at": "2026-08-30T10:43:57Z",
+      "classified_at": "2026-08-30T13:57:33Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 2,
@@ -149,7 +149,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-08-30T10:43:57Z",
+  "classified_at": "2026-08-30T13:57:33Z",
   "counts": {
     "candidate": 0,
     "observe_only": 5,
@@ -160,6 +160,6 @@
   "service": "meta",
   "source_content_hash": "798c33041d1a1db4ac329b28a413f0a68a2465d0fa3549233cb4b84781452052",
   "source_generated_at": "2026-08-30T08:58:08Z",
-  "source_last_intake_at": "2026-08-30T10:43:57Z",
+  "source_last_intake_at": "2026-08-30T13:57:33Z",
   "version": 1
 }
