@@ -10,10 +10,10 @@
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "web.whatsapp.com",
       "last_external_at": "2026-08-29T19:39:33Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
       "last_observed": "2026-08-29T19:40:43Z",
       "observation_count": 2,
-      "presence_cycles": 229,
+      "presence_cycles": 300,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29"
@@ -31,10 +31,10 @@
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "graph.facebook.com",
       "last_external_at": "2026-08-29T20:41:17Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
       "last_observed": "2026-08-29T20:41:18Z",
       "observation_count": 2,
-      "presence_cycles": 229,
+      "presence_cycles": 300,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29"
@@ -52,10 +52,10 @@
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "www.facebook.com",
       "last_external_at": "2026-08-29T19:36:17Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
       "last_observed": "2026-08-29T19:36:36Z",
       "observation_count": 1,
-      "presence_cycles": 229,
+      "presence_cycles": 300,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29"
@@ -64,7 +64,7 @@
       "suffix": "facebook.com"
     },
     "899f426fb48762e07a38df3b9377fee5ce775158f766dc9729d7ba783ecd0ec5": {
-      "active_cycles": 3,
+      "active_cycles": 5,
       "candidate_id": "899f426fb48762e07a38df3b9377fee5ce775158f766dc9729d7ba783ecd0ec5",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -72,14 +72,15 @@
       "first_intake_at": "2026-08-30T10:35:08Z",
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "www.instagram.com",
-      "last_external_at": "2026-08-29T19:47:54Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
-      "last_observed": "2026-08-29T20:00:50Z",
-      "observation_count": 4,
-      "presence_cycles": 229,
+      "last_external_at": "2026-08-30T19:29:52Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
+      "last_observed": "2026-08-30T19:34:27Z",
+      "observation_count": 5,
+      "presence_cycles": 300,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-30"
       ],
       "state": "observed",
       "suffix": "instagram.com"
@@ -93,14 +94,15 @@
       "first_intake_at": "2026-08-30T10:35:08Z",
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "z-m-gateway.facebook.com",
-      "last_external_at": "2026-08-29T19:32:30Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
-      "last_observed": "2026-08-29T20:00:50Z",
-      "observation_count": 2,
-      "presence_cycles": 229,
+      "last_external_at": "2026-08-30T15:24:20Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
+      "last_observed": "2026-08-30T15:26:34Z",
+      "observation_count": 4,
+      "presence_cycles": 300,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-30"
       ],
       "state": "observed",
       "suffix": "facebook.com"
@@ -115,10 +117,10 @@
       "first_observed": "2026-08-30T10:59:16Z",
       "hostname": "graph.whatsapp.com",
       "last_external_at": "2026-08-30T11:21:27Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
       "last_observed": "2026-08-30T11:24:32Z",
       "observation_count": 5,
-      "presence_cycles": 48,
+      "presence_cycles": 119,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-30"
@@ -136,10 +138,10 @@
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "connect.facebook.net",
       "last_external_at": "2026-08-30T10:09:37Z",
-      "last_intake_at": "2026-08-30T18:10:19Z",
+      "last_intake_at": "2026-08-30T22:54:05Z",
       "last_observed": "2026-08-30T10:13:48Z",
       "observation_count": 4,
-      "presence_cycles": 229,
+      "presence_cycles": 300,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29",
@@ -149,11 +151,11 @@
       "suffix": "facebook.net"
     }
   },
-  "last_intake_at": "2026-08-30T18:10:19Z",
+  "last_intake_at": "2026-08-30T22:54:05Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "meta",
-  "source_content_hash": "5ce358244c5c74c07109fa0dd6ced3c0a66213afcf276a14a3e156bcdc36e873",
-  "source_generated_at": "2026-08-30T14:56:26Z"
+  "source_content_hash": "aad62edd8cc08084b840b24000d9a2bd468c7dde602e2260d8f6e54343c84545",
+  "source_generated_at": "2026-08-30T20:55:05Z"
 }
