@@ -1,6 +1,5 @@
 /ip firewall address-list
 
-add list=meta address=31.13.72.0/24 comment=meta
 add list=meta address=34.102.239.0/24 comment=meta
 add list=meta address=34.110.180.0/24 comment=meta
 add list=meta address=66.220.149.0/24 comment=meta
