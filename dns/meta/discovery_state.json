@@ -3,56 +3,56 @@
     "certspotter": {
       "cdninstagram.com": {
         "after": 16933039823,
-        "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "caught_up": true,
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "facebook.com": {
-        "after": 16559172280,
+        "after": 16595845493,
         "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "facebook.net": {
         "after": 16933530809,
-        "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "caught_up": true,
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "fbsbx.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "wa.me": {
         "after": 16933375894,
-        "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "caught_up": true,
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "whatsapp.com": {
         "after": 16933501791,
-        "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "caught_up": true,
+        "last_poll": "2026-09-02T12:56:01Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-02T07:17:55Z"
+        "last_poll": "2026-09-02T12:56:01Z"
       }
     }
   },
-  "updated_at": "2026-09-02T07:17:55Z",
+  "updated_at": "2026-09-02T12:56:01Z",
   "version": 2
 }
