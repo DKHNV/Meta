@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-02T23:29:30Z",
       "last_observed": "2026-09-02T23:30:10Z",
       "observation_count": 8,
-      "presence_cycles": 1381,
+      "presence_cycles": 1453,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-30",
@@ -52,7 +52,7 @@
       "last_external_at": "2026-09-04T22:35:22Z",
       "last_observed": "2026-09-04T23:09:01Z",
       "observation_count": 18,
-      "presence_cycles": 1793,
+      "presence_cycles": 1865,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -74,7 +74,7 @@
       "last_external_at": "2026-09-03T07:56:21Z",
       "last_observed": "2026-09-03T07:59:55Z",
       "observation_count": 15,
-      "presence_cycles": 1448,
+      "presence_cycles": 1520,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-30",
@@ -96,7 +96,7 @@
       "last_external_at": "2026-09-02T22:03:05Z",
       "last_observed": "2026-09-02T22:04:25Z",
       "observation_count": 11,
-      "presence_cycles": 941,
+      "presence_cycles": 1013,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-09-01",
@@ -135,7 +135,7 @@
       "last_external_at": "2026-09-02T22:24:26Z",
       "last_observed": "2026-09-02T22:34:41Z",
       "observation_count": 4,
-      "presence_cycles": 1411,
+      "presence_cycles": 1483,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -155,7 +155,7 @@
       "last_external_at": "2026-09-04T22:07:05Z",
       "last_observed": "2026-09-04T22:08:05Z",
       "observation_count": 9,
-      "presence_cycles": 1144,
+      "presence_cycles": 1216,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -176,7 +176,7 @@
       "last_external_at": "2026-09-04T22:03:04Z",
       "last_observed": "2026-09-04T22:08:05Z",
       "observation_count": 11,
-      "presence_cycles": 1794,
+      "presence_cycles": 1866,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-08-29",
@@ -188,8 +188,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "2c40c7d955b5334f444bef163ee8ec8ab812bebcde2835c8b63a7f959da7127c",
-  "generated_at": "2026-09-05T02:56:12Z",
+  "content_hash": "bac156ad9ecbd507c133d43b40859ed3f2d702ad5e90d89bc52ecef7fef37add",
+  "generated_at": "2026-09-05T08:59:11Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
