@@ -5,7 +5,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -480,21 +480,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "alpha.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.200.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.198.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -503,7 +511,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 400,
-          "ip": "31.13.71.19",
+          "ip": "163.70.151.8",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -978,20 +986,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 400,
+          "ip": "163.70.151.8",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "alpha.intern.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.19",
-        "57.144.204.146"
+        "163.70.151.8",
+        "57.144.196.146",
+        "57.144.74.146"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1000,7 +1017,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 404,
-          "ip": "31.13.71.52",
+          "ip": "163.70.151.63",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1475,20 +1492,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 404,
+          "ip": "163.70.151.63",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "api.instagram.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.52",
-        "57.144.204.192"
+        "163.70.151.63",
+        "57.144.198.192",
+        "57.145.2.192"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1497,7 +1523,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1972,21 +1998,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "beta.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.172.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.196.141",
+        "57.145.2.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1995,7 +2029,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 400,
-          "ip": "157.240.254.12",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -2470,21 +2504,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 400,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "beta.facebook.net",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.12",
-        "31.13.71.1",
-        "57.144.194.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.198.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2492,7 +2534,7 @@
       "attempts": [
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
-          "ip": "31.13.71.222",
+          "ip": "163.70.151.207",
           "port": 443,
           "status": "TLS_OK",
           "tls_version": "TLSv1.3"
@@ -2909,20 +2951,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "ip": "163.70.151.207",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "cloud.x2p.facebook.net",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.222",
-        "57.144.205.161"
+        "163.70.151.207",
+        "57.144.197.161",
+        "57.144.75.161"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2931,7 +2981,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.7",
+          "ip": "163.70.151.21",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -3406,20 +3456,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.21",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "connect.facebook.net",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.7",
-        "57.144.204.128"
+        "163.70.151.21",
+        "57.144.198.128",
+        "57.145.2.128"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3428,7 +3487,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 400,
-          "ip": "157.240.254.18",
+          "ip": "163.70.151.8",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -3903,21 +3962,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 400,
+          "ip": "163.70.151.8",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "cstools.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.18",
-        "31.13.71.19",
-        "57.144.204.146"
+        "163.70.151.8",
+        "57.144.196.146",
+        "57.145.2.146"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4401,19 +4468,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 404,
+          "ip": "34.102.239.211",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "email.user-research.whatsapp.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "34.102.239.211"
+        "34.102.239.211",
+        "34.110.180.34"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4422,7 +4498,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 400,
-          "ip": "157.240.254.18",
+          "ip": "163.70.151.8",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -4897,21 +4973,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 400,
+          "ip": "163.70.151.8",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "extern.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.18",
-        "31.13.71.19",
-        "57.144.204.146"
+        "163.70.151.8",
+        "31.13.66.3",
+        "57.144.196.146"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4920,7 +5004,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "157.240.254.35",
+          "ip": "163.70.151.35",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5395,21 +5479,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.35",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.35",
-        "31.13.71.36",
-        "57.144.204.1"
+        "163.70.151.35",
+        "31.13.66.35",
+        "57.144.196.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5418,7 +5510,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5893,21 +5985,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "fb.alpha.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.194.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.198.141",
+        "57.145.2.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5916,7 +6016,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -6391,21 +6491,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "fb.beta.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.194.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.196.141",
+        "57.145.2.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6414,7 +6522,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -6889,20 +6997,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "fb.m.alpha.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.204.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.198.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6911,7 +7028,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 400,
-          "ip": "157.240.254.12",
+          "ip": "31.13.66.4",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -7386,20 +7503,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 400,
+          "ip": "31.13.66.4",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "graph.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.12",
-        "57.144.194.141"
+        "31.13.66.4",
+        "57.144.198.141",
+        "57.145.2.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7883,20 +8009,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "173.252.95.252",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "h.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
         "173.252.95.252",
         "66.220.149.254"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7905,7 +8039,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "157.240.254.174",
+          "ip": "163.70.151.174",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -8380,21 +8514,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.174",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "instagram.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.174",
-        "31.13.71.174",
-        "57.144.204.34"
+        "163.70.151.174",
+        "57.144.198.34",
+        "57.144.74.34"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8403,7 +8545,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.19",
+          "ip": "163.70.151.8",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -8878,20 +9020,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.8",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "intern.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.19",
-        "57.144.204.146"
+        "163.70.151.8",
+        "57.144.196.146",
+        "57.145.2.146"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8900,7 +9051,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.27",
+          "ip": "163.70.151.18",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -9375,20 +9526,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.18",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "internmc.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.27",
-        "57.144.204.134"
+        "163.70.151.18",
+        "57.144.198.134",
+        "57.144.74.134"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9397,7 +9557,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -9872,21 +10032,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "latest.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.194.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.198.141",
+        "57.144.74.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9895,7 +10063,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -10370,20 +10538,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "m.alpha.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.198.141",
+        "57.144.74.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10392,7 +10569,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -10867,20 +11044,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "m.beta.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.204.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.196.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10889,7 +11075,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.36",
+          "ip": "163.70.151.35",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -11364,21 +11550,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.35",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "m.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.36",
-        "57.144.194.1",
-        "57.144.204.1"
+        "163.70.151.35",
+        "57.144.198.1",
+        "57.145.2.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11387,7 +11581,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.19",
+          "ip": "163.70.151.8",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -11862,20 +12056,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.8",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "m.intern.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.19",
-        "57.144.204.146"
+        "163.70.151.8",
+        "31.13.66.3",
+        "57.144.198.146"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11884,7 +12087,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.27",
+          "ip": "163.70.151.18",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -12359,21 +12562,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.18",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "m.internmc.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.27",
-        "57.144.194.134",
-        "57.144.204.134"
+        "163.70.151.18",
+        "57.144.198.134",
+        "57.145.2.134"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12857,20 +13068,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.114.130.31",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "mirror.facebook.net",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
         "163.114.130.31",
         "163.114.132.32"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12878,7 +13097,7 @@
       "attempts": [
         {
           "detail": "timed out",
-          "ip": "173.252.82.250",
+          "ip": "173.252.87.251",
           "port": 443,
           "status": "TIMEOUT"
         },
@@ -12889,9 +13108,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 60,
+      "consecutive_failures": 61,
       "ever_alive": false,
-      "failure_observations": 60,
+      "failure_observations": 61,
       "failure_since": "2026-08-27T00:00:46Z",
       "first_seen": "2026-08-27T00:00:46Z",
       "history": [
@@ -13358,19 +13577,27 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 58,
-      "history_samples": 58,
+      "history_failures": 59,
+      "history_samples": 59,
       "history_successes": 0,
       "hostname": "msgin-regional.vvv.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": {
-        "at": "2026-09-10T17:49:09Z",
+        "at": "2026-09-10T22:44:22Z",
         "attempts": [
           {
             "detail": "timed out",
-            "ip": "173.252.82.250",
+            "ip": "173.252.87.251",
             "port": 443,
             "status": "TIMEOUT"
           },
@@ -13387,7 +13614,7 @@
         "type": "TIMEOUT"
       },
       "last_ipv4": [
-        "173.252.82.250",
+        "173.252.87.251",
         "66.220.149.251"
       ],
       "last_result": "FAILURE",
@@ -13400,7 +13627,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -13875,20 +14102,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "p.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.204.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.198.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13897,7 +14133,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -14372,21 +14608,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "payments.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.194.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.198.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14395,7 +14639,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -14870,21 +15114,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "prod.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.194.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.198.141",
+        "57.145.2.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14893,7 +15145,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 404,
-          "ip": "31.13.71.224",
+          "ip": "163.70.151.204",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -15368,21 +15620,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 404,
+          "ip": "163.70.151.204",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "registry.x2p.facebook.net",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.224",
-        "57.144.195.129",
-        "57.144.205.129"
+        "163.70.151.204",
+        "57.144.199.129",
+        "57.144.75.129"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15391,7 +15651,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.17",
+          "ip": "163.70.151.14",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -15866,20 +16126,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.14",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.alpha.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.17",
-        "57.144.204.139"
+        "163.70.151.14",
+        "57.144.196.139",
+        "57.144.74.139"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15888,7 +16157,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.17",
+          "ip": "163.70.151.14",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -16363,20 +16632,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.14",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.beta.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.17",
-        "57.144.204.139"
+        "163.70.151.14",
+        "57.144.198.139",
+        "57.144.74.139"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16385,7 +16663,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.17",
+          "ip": "163.70.151.14",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -16860,21 +17138,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.14",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.17",
-        "57.144.194.139",
-        "57.144.204.139"
+        "163.70.151.14",
+        "57.144.196.139",
+        "57.144.74.139"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16883,7 +17169,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 307,
-          "ip": "31.13.71.27",
+          "ip": "163.70.151.18",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -17358,21 +17644,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 307,
+          "ip": "163.70.151.18",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.intern.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.27",
-        "57.144.200.134",
-        "57.144.204.134"
+        "163.70.151.18",
+        "31.13.66.12",
+        "57.144.198.134"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17381,7 +17675,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 400,
-          "ip": "31.13.71.27",
+          "ip": "163.70.151.18",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -17856,20 +18150,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 400,
+          "ip": "163.70.151.18",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.internmc.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.27",
-        "57.144.204.134"
+        "163.70.151.18",
+        "57.144.198.134",
+        "57.144.74.134"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17878,7 +18181,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.17",
+          "ip": "163.70.151.14",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -18353,20 +18656,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.14",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.latest.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.17",
-        "57.144.204.139"
+        "163.70.151.14",
+        "31.13.66.1",
+        "57.144.198.139"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18375,7 +18687,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.17",
+          "ip": "163.70.151.14",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -18850,21 +19162,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.14",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.prod.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.17",
-        "57.144.200.139",
-        "57.144.204.139"
+        "163.70.151.14",
+        "31.13.66.1",
+        "57.144.198.139"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18873,7 +19193,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.17",
+          "ip": "163.70.151.14",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -19348,21 +19668,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.14",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "secure.trunkstable.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.17",
-        "57.144.194.139",
-        "57.144.204.139"
+        "163.70.151.14",
+        "31.13.66.1",
+        "57.144.198.139"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -19371,7 +19699,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.28",
+          "ip": "163.70.151.13",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -19846,32 +20174,34 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.13",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "shortwave.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.28",
-        "57.144.194.131",
-        "57.144.204.131"
+        "163.70.151.13",
+        "57.144.198.131",
+        "57.144.74.131"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
     "smtpin.vvv.facebook.com": {
       "attempts": [
-        {
-          "detail": "timed out",
-          "ip": "173.252.82.250",
-          "port": 443,
-          "status": "TIMEOUT"
-        },
         {
           "detail": "timed out",
           "ip": "173.252.87.251",
@@ -19885,9 +20215,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 83,
+      "consecutive_failures": 84,
       "ever_alive": false,
-      "failure_observations": 83,
+      "failure_observations": 84,
       "failure_since": "2026-08-21T08:46:23Z",
       "first_seen": "2026-08-21T08:46:23Z",
       "history": [
@@ -20354,22 +20684,24 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 58,
-      "history_samples": 58,
+      "history_failures": 59,
+      "history_samples": 59,
       "history_successes": 0,
       "hostname": "smtpin.vvv.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": {
-        "at": "2026-09-10T17:49:09Z",
+        "at": "2026-09-10T22:44:22Z",
         "attempts": [
-          {
-            "detail": "timed out",
-            "ip": "173.252.82.250",
-            "port": 443,
-            "status": "TIMEOUT"
-          },
           {
             "detail": "timed out",
             "ip": "173.252.87.251",
@@ -20389,7 +20721,6 @@
         "type": "TIMEOUT"
       },
       "last_ipv4": [
-        "173.252.82.250",
         "173.252.87.251",
         "66.220.149.251"
       ],
@@ -20403,7 +20734,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -20878,20 +21209,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "socialplugin.facebook.net",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.204.141"
+        "163.70.151.23",
+        "31.13.66.4",
+        "57.144.196.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -20900,7 +21240,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "31.13.71.1",
+          "ip": "163.70.151.23",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -21375,21 +21715,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "trunkstable.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.1",
-        "57.144.194.141",
-        "57.144.204.141"
+        "163.70.151.23",
+        "57.144.196.141",
+        "57.144.74.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -21398,7 +21746,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "31.13.71.49",
+          "ip": "163.70.151.60",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -21873,21 +22221,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.60",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "wa.me",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.49",
-        "57.144.195.32",
-        "57.144.205.32"
+        "163.70.151.60",
+        "31.13.66.56",
+        "57.144.199.32"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -21896,7 +22252,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "157.240.254.60",
+          "ip": "163.70.151.60",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -22371,21 +22727,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.60",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "web.whatsapp.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.60",
-        "31.13.71.49",
-        "57.144.205.32"
+        "163.70.151.60",
+        "57.144.199.32",
+        "57.144.75.32"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -22394,7 +22758,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 302,
-          "ip": "157.240.254.60",
+          "ip": "163.70.151.60",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -22869,21 +23233,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 302,
+          "ip": "163.70.151.60",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "whatsapp.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.60",
-        "31.13.71.49",
-        "57.144.205.32"
+        "163.70.151.60",
+        "31.13.66.56",
+        "57.144.197.32"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -22892,7 +23264,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "57.144.194.1",
+          "ip": "57.144.196.1",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -23367,20 +23739,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "57.144.196.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "www.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "57.144.194.1",
-        "57.144.204.1"
+        "57.144.196.1",
+        "57.144.74.1",
+        "57.145.2.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -23389,7 +23770,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "157.240.254.174",
+          "ip": "163.70.151.174",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -23864,21 +24245,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.174",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "www.instagram.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "157.240.254.174",
-        "31.13.71.174",
-        "57.144.204.34"
+        "163.70.151.174",
+        "31.13.66.174",
+        "57.144.198.34"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -23887,7 +24276,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 200,
-          "ip": "31.13.71.49",
+          "ip": "163.70.151.60",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -24362,21 +24751,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 200,
+          "ip": "163.70.151.60",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "www.whatsapp.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.49",
-        "57.144.195.32",
-        "57.144.205.32"
+        "163.70.151.60",
+        "57.144.199.32",
+        "57.144.75.32"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -24385,7 +24782,7 @@
         {
           "cipher": "TLS_CHACHA20_POLY1305_SHA256",
           "http_status": 301,
-          "ip": "31.13.71.37",
+          "ip": "163.70.151.33",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -24860,24 +25257,33 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-10T22:44:22Z",
+          "http_status": 301,
+          "ip": "163.70.151.33",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 58,
-      "history_successes": 58,
+      "history_samples": 59,
+      "history_successes": 59,
       "hostname": "z.facebook.com",
-      "last_check": "2026-09-10T17:49:09Z",
+      "last_check": "2026-09-10T22:44:22Z",
       "last_failure": null,
       "last_ipv4": [
-        "31.13.71.37",
-        "57.144.204.6"
+        "163.70.151.33",
+        "57.144.198.6",
+        "57.145.2.6"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-10T17:49:09Z",
+      "last_success": "2026-09-10T22:44:22Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-09-10T17:49:09Z",
+  "updated_at": "2026-09-10T22:44:22Z",
   "version": 3
 }
