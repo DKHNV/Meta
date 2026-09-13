@@ -4,55 +4,55 @@
       "cdninstagram.com": {
         "after": 17145270732,
         "caught_up": true,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "facebook.com": {
         "after": 17147946942,
         "caught_up": true,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "facebook.net": {
         "after": 17145649344,
         "caught_up": true,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "fbsbx.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "wa.me": {
         "after": 17145517915,
         "caught_up": true,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "whatsapp.com": {
         "after": 17145596564,
         "caught_up": true,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T17:35:34Z"
+        "last_poll": "2026-09-13T22:34:00Z"
       }
     }
   },
-  "updated_at": "2026-09-13T17:35:34Z",
+  "updated_at": "2026-09-13T22:34:00Z",
   "version": 2
 }
