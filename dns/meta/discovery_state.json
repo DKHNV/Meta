@@ -2,57 +2,57 @@
   "sources": {
     "certspotter": {
       "cdninstagram.com": {
-        "after": 17145270732,
-        "caught_up": true,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "after": 17165158397,
+        "caught_up": false,
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "facebook.com": {
-        "after": 17147946942,
-        "caught_up": true,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "after": 17165177662,
+        "caught_up": false,
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "facebook.net": {
-        "after": 17145649344,
-        "caught_up": true,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "after": 17164350535,
+        "caught_up": false,
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "fbsbx.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "wa.me": {
-        "after": 17145517915,
-        "caught_up": true,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "after": 17165222861,
+        "caught_up": false,
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "whatsapp.com": {
-        "after": 17145596564,
-        "caught_up": true,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "after": 17165222861,
+        "caught_up": false,
+        "last_poll": "2026-09-14T08:04:53Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-13T22:34:00Z"
+        "last_poll": "2026-09-14T08:04:53Z"
       }
     }
   },
-  "updated_at": "2026-09-13T22:34:00Z",
+  "updated_at": "2026-09-14T08:04:53Z",
   "version": 2
 }
