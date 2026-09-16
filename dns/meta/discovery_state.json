@@ -2,57 +2,57 @@
   "sources": {
     "certspotter": {
       "cdninstagram.com": {
-        "after": 17182368237,
-        "caught_up": true,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "after": 17201439289,
+        "caught_up": false,
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "facebook.com": {
-        "after": 17182748630,
-        "caught_up": true,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "after": 17202804424,
+        "caught_up": false,
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "facebook.net": {
-        "after": 17182759439,
-        "caught_up": true,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "after": 17202780586,
+        "caught_up": false,
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "fbsbx.com": {
-        "after": 16953990193,
+        "after": 17182221225,
         "caught_up": false,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "wa.me": {
-        "after": 17182590503,
-        "caught_up": true,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "after": 17201761360,
+        "caught_up": false,
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "whatsapp.com": {
-        "after": 17182736257,
-        "caught_up": true,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "after": 17201878248,
+        "caught_up": false,
+        "last_poll": "2026-09-16T07:52:34Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-15T23:07:40Z"
+        "last_poll": "2026-09-16T07:52:34Z"
       }
     }
   },
-  "updated_at": "2026-09-15T23:07:40Z",
+  "updated_at": "2026-09-16T07:52:34Z",
   "version": 2
 }
