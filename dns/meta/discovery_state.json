@@ -4,55 +4,55 @@
       "cdninstagram.com": {
         "after": 17353334274,
         "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "facebook.com": {
-        "after": 17354547965,
-        "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "after": 17369114033,
+        "caught_up": false,
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "facebook.net": {
-        "after": 17354591248,
-        "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "after": 17369241844,
+        "caught_up": false,
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "fbsbx.com": {
         "after": 17354470775,
         "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "wa.me": {
-        "after": 17353279518,
-        "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "after": 17366478038,
+        "caught_up": false,
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "whatsapp.com": {
-        "after": 17353415575,
-        "caught_up": true,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "after": 17366478038,
+        "caught_up": false,
+        "last_poll": "2026-09-23T18:34:25Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-23T13:48:52Z"
+        "last_poll": "2026-09-23T18:34:25Z"
       }
     }
   },
-  "updated_at": "2026-09-23T13:48:52Z",
+  "updated_at": "2026-09-23T18:34:25Z",
   "version": 2
 }
