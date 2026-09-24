@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-23T20:54:18Z",
       "last_observed": "2026-09-23T20:55:35Z",
       "observation_count": 18,
-      "presence_cycles": 6273,
+      "presence_cycles": 6344,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-30",
@@ -59,7 +59,7 @@
       "last_external_at": "2026-09-23T11:29:51Z",
       "last_observed": "2026-09-23T11:30:35Z",
       "observation_count": 38,
-      "presence_cycles": 7211,
+      "presence_cycles": 7282,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-29",
@@ -84,7 +84,7 @@
       "last_external_at": "2026-09-23T17:30:37Z",
       "last_observed": "2026-09-23T17:33:36Z",
       "observation_count": 29,
-      "presence_cycles": 6428,
+      "presence_cycles": 6499,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-30",
@@ -109,7 +109,7 @@
       "last_external_at": "2026-09-23T08:18:36Z",
       "last_observed": "2026-09-23T08:19:00Z",
       "observation_count": 17,
-      "presence_cycles": 2973,
+      "presence_cycles": 3044,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-09-01",
@@ -139,7 +139,7 @@
       "suffix": "whatsapp.com"
     },
     {
-      "active_cycles": 25,
+      "active_cycles": 26,
       "candidate_id": "622b6d5d27a5ca33e178e6e7a27cf09513171101d1c19c9d695f9cbfbd919490",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -149,7 +149,7 @@
       "last_external_at": "2026-09-23T15:22:41Z",
       "last_observed": "2026-09-23T15:42:19Z",
       "observation_count": 21,
-      "presence_cycles": 6561,
+      "presence_cycles": 6632,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-29",
@@ -194,7 +194,7 @@
       "last_external_at": "2026-09-23T14:25:23Z",
       "last_observed": "2026-09-23T14:31:51Z",
       "observation_count": 27,
-      "presence_cycles": 7212,
+      "presence_cycles": 7283,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -209,8 +209,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "7a45f10bd2751034942fc856457b64c5ae491a827eb34a334264fb90da3154e4",
-  "generated_at": "2026-09-24T02:58:43Z",
+  "content_hash": "cd3a0d7b8de94790a96836cf3be74e06dd87fbf77e150f5f7a712a14eee31f93",
+  "generated_at": "2026-09-24T08:56:41Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
