@@ -8,14 +8,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "alpha.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.218.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -23,21 +22,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.141"
+            "57.145.20.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -56,14 +55,14 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "alpha.intern.facebook.com",
       "ipv4": [
-        "57.144.104.146",
-        "57.144.194.146",
-        "157.240.254.18"
+        "57.144.200.146",
+        "57.144.204.146",
+        "157.240.26.9"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -71,21 +70,21 @@
         "1.1.1.1": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.146"
+            "157.240.26.9"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.18"
+            "57.144.204.146"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.146"
+            "57.144.200.146"
           ],
           "status": "OK"
         }
@@ -104,14 +103,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "api.instagram.com",
       "ipv4": [
-        "57.144.104.192",
-        "57.145.20.192",
-        "157.240.254.63"
+        "57.144.204.192",
+        "57.145.20.192"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -126,14 +124,14 @@
         "8.8.8.8": {
           "canonical_name": "instagram.c10r.instagram.com",
           "ipv4": [
-            "157.240.254.63"
+            "57.144.204.192"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "instagram.c10r.instagram.com",
           "ipv4": [
-            "57.144.104.192"
+            "57.144.204.192"
           ],
           "status": "OK"
         }
@@ -152,14 +150,13 @@
       "first_seen": "2026-09-14T15:12:27Z",
       "hostname": "apps.fbsbx.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.194.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "157.240.26.18"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -167,21 +164,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.141"
+            "157.240.26.18"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -194,18 +191,18 @@
     },
     "autodiscover.whatsapp.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "autodiscover.whatsapp.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -236,14 +233,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "beta.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.218.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -251,21 +247,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.141"
+            "57.145.20.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -284,14 +280,13 @@
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "beta.facebook.net",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.218.141",
-        "157.240.254.12"
+        "57.144.172.141",
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -299,21 +294,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.141"
+            "57.144.172.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -326,18 +321,18 @@
     },
     "c2p.facebook.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 141,
+      "consecutive_negative_checks": 142,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "c2p.facebook.net",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 141,
+      "negative_observations": 142,
       "negative_since": "2026-08-21T09:10:25Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -362,18 +357,18 @@
     },
     "callagen.lab.x2p.facebook.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 141,
+      "consecutive_negative_checks": 142,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "callagen.lab.x2p.facebook.net",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 141,
+      "negative_observations": 142,
       "negative_since": "2026-08-21T09:10:25Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -404,14 +399,13 @@
       "first_seen": "2026-09-14T15:12:27Z",
       "hostname": "cdn.fbsbx.com",
       "ipv4": [
-        "57.144.104.128",
-        "57.144.200.128",
-        "157.240.254.7"
+        "57.144.172.128",
+        "57.144.204.128"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -419,21 +413,21 @@
         "1.1.1.1": {
           "canonical_name": "scontent.xx.fbcdn.net",
           "ipv4": [
-            "57.144.200.128"
+            "57.144.172.128"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "scontent.xx.fbcdn.net",
           "ipv4": [
-            "157.240.254.7"
+            "57.144.204.128"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "scontent.xx.fbcdn.net",
           "ipv4": [
-            "57.144.104.128"
+            "57.144.204.128"
           ],
           "status": "OK"
         }
@@ -446,18 +440,18 @@
     },
     "cdninstagram.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "cdninstagram.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -488,14 +482,12 @@
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "cloud.x2p.facebook.net",
       "ipv4": [
-        "57.144.105.161",
-        "57.144.201.161",
-        "157.240.254.198"
+        "57.144.205.161"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -503,21 +495,21 @@
         "1.1.1.1": {
           "canonical_name": "cloud-x2p.c10r.facebook.com",
           "ipv4": [
-            "57.144.201.161"
+            "57.144.205.161"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "cloud-x2p.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.198"
+            "57.144.205.161"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "cloud-x2p.c10r.facebook.com",
           "ipv4": [
-            "57.144.105.161"
+            "57.144.205.161"
           ],
           "status": "OK"
         }
@@ -536,14 +528,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "connect.facebook.net",
       "ipv4": [
-        "57.144.104.128",
-        "57.144.218.128",
+        "57.144.204.128",
         "157.240.254.7"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -551,21 +542,21 @@
         "1.1.1.1": {
           "canonical_name": "scontent.xx.fbcdn.net",
           "ipv4": [
-            "57.144.218.128"
+            "157.240.254.7"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "scontent.xx.fbcdn.net",
           "ipv4": [
-            "157.240.254.7"
+            "57.144.204.128"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "scontent.xx.fbcdn.net",
           "ipv4": [
-            "57.144.104.128"
+            "57.144.204.128"
           ],
           "status": "OK"
         }
@@ -584,14 +575,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "cstools.facebook.com",
       "ipv4": [
-        "57.144.104.146",
-        "57.144.218.146",
-        "157.240.254.18"
+        "57.144.204.146",
+        "57.145.20.146"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -599,21 +589,21 @@
         "1.1.1.1": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.146"
+            "57.145.20.146"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.18"
+            "57.144.204.146"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.146"
+            "57.144.204.146"
           ],
           "status": "OK"
         }
@@ -626,18 +616,18 @@
     },
     "dev.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "dev.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -646,7 +636,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.143.17"
+            "10.110.159.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -655,7 +645,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.151.5"
+            "10.110.135.10"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -677,18 +667,18 @@
     },
     "dewey-lfs.vip.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "dewey-lfs.vip.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -713,18 +703,18 @@
     },
     "dewey.vip.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "dewey.vip.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -755,12 +745,12 @@
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "email.user-research.whatsapp.com",
       "ipv4": [
-        "34.110.180.34"
+        "34.102.239.211"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -768,21 +758,21 @@
         "1.1.1.1": {
           "canonical_name": "mailgun.org",
           "ipv4": [
-            "34.110.180.34"
+            "34.102.239.211"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mailgun.org",
           "ipv4": [
-            "34.110.180.34"
+            "34.102.239.211"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mailgun.org",
           "ipv4": [
-            "34.110.180.34"
+            "34.102.239.211"
           ],
           "status": "OK"
         }
@@ -801,14 +791,13 @@
       "first_seen": "2026-09-14T15:12:27Z",
       "hostname": "embed.fbsbx.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.194.141",
-        "157.240.254.12"
+        "57.144.172.141",
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -816,21 +805,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.141"
+            "57.144.172.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -843,18 +832,18 @@
     },
     "extern-silfra.facebook.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 141,
+      "consecutive_negative_checks": 142,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "extern-silfra.facebook.net",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 141,
+      "negative_observations": 142,
       "negative_since": "2026-08-21T09:10:25Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -885,14 +874,14 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "extern.facebook.com",
       "ipv4": [
-        "57.144.104.146",
-        "57.145.20.146",
-        "157.240.254.18"
+        "57.144.194.146",
+        "57.144.204.146",
+        "57.145.20.146"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -907,14 +896,14 @@
         "8.8.8.8": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.18"
+            "57.144.204.146"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.146"
+            "57.144.194.146"
           ],
           "status": "OK"
         }
@@ -933,14 +922,14 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "facebook.com",
       "ipv4": [
-        "57.144.104.1",
-        "57.144.218.1",
-        "157.240.254.35"
+        "57.144.200.1",
+        "57.144.204.1",
+        "57.145.20.1"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -948,21 +937,21 @@
         "1.1.1.1": {
           "canonical_name": "facebook.com",
           "ipv4": [
-            "57.144.218.1"
+            "57.145.20.1"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "facebook.com",
           "ipv4": [
-            "157.240.254.35"
+            "57.144.204.1"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "facebook.com",
           "ipv4": [
-            "57.144.104.1"
+            "57.144.200.1"
           ],
           "status": "OK"
         }
@@ -982,14 +971,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "fb.alpha.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.145.20.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1004,14 +992,14 @@
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1030,14 +1018,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "fb.beta.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.200.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1045,21 +1032,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.200.141"
+            "57.145.20.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1078,14 +1065,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "fb.m.alpha.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.218.141",
-        "157.240.254.12"
+        "57.144.172.141",
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1093,21 +1079,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.141"
+            "57.144.172.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1126,14 +1112,13 @@
       "first_seen": "2026-09-14T15:12:27Z",
       "hostname": "fbsbx.com",
       "ipv4": [
-        "57.144.104.1",
-        "57.144.194.1",
-        "157.240.254.35"
+        "57.144.204.1",
+        "157.240.26.35"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1141,21 +1126,21 @@
         "1.1.1.1": {
           "canonical_name": "fbsbx.com",
           "ipv4": [
-            "57.144.194.1"
+            "157.240.26.35"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "fbsbx.com",
           "ipv4": [
-            "157.240.254.35"
+            "57.144.204.1"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "fbsbx.com",
           "ipv4": [
-            "57.144.104.1"
+            "57.144.204.1"
           ],
           "status": "OK"
         }
@@ -1174,14 +1159,12 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "graph.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.218.141",
-        "157.240.254.12"
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1189,21 +1172,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1222,12 +1205,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "h.facebook.com",
       "ipv4": [
-        "173.252.95.252"
+        "66.220.149.254"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1235,21 +1218,21 @@
         "1.1.1.1": {
           "canonical_name": "headers-regional.vvv.facebook.com",
           "ipv4": [
-            "173.252.95.252"
+            "66.220.149.254"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "headers-regional.vvv.facebook.com",
           "ipv4": [
-            "173.252.95.252"
+            "66.220.149.254"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "headers-regional.vvv.facebook.com",
           "ipv4": [
-            "173.252.95.252"
+            "66.220.149.254"
           ],
           "status": "OK"
         }
@@ -1262,18 +1245,18 @@
     },
     "hr.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "hr.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -1282,7 +1265,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.151.5"
+            "10.110.159.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -1300,7 +1283,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.135.10"
+            "10.110.151.5"
           ],
           "status": "NON_GLOBAL_A"
         }
@@ -1319,14 +1302,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "instagram.com",
       "ipv4": [
-        "57.144.20.34",
-        "57.144.104.34",
-        "157.240.254.174"
+        "57.144.204.34",
+        "157.240.26.174"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1334,21 +1316,21 @@
         "1.1.1.1": {
           "canonical_name": "instagram.com",
           "ipv4": [
-            "57.144.20.34"
+            "157.240.26.174"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "instagram.com",
           "ipv4": [
-            "157.240.254.174"
+            "57.144.204.34"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "instagram.com",
           "ipv4": [
-            "57.144.104.34"
+            "57.144.204.34"
           ],
           "status": "OK"
         }
@@ -1367,14 +1349,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "intern.facebook.com",
       "ipv4": [
-        "57.144.104.146",
-        "57.145.20.146",
+        "57.144.204.146",
         "157.240.254.18"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1382,21 +1363,21 @@
         "1.1.1.1": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.145.20.146"
+            "157.240.254.18"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.18"
+            "57.144.204.146"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.146"
+            "57.144.204.146"
           ],
           "status": "OK"
         }
@@ -1409,18 +1390,18 @@
     },
     "interngraph.prod.scgraph.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "interngraph.prod.scgraph.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -1438,7 +1419,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.199.18"
+            "10.110.151.15"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -1460,18 +1441,69 @@
     },
     "interngraph.scgraph.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "interngraph.scgraph.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
+      "negative_since": "2026-08-21T08:46:23Z",
+      "quarantined_at": "2026-08-28T14:33:21Z",
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "interngraph-entry-regional.vvv.facebook.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.110.135.19"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "interngraph-entry-regional.vvv.facebook.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.110.143.20"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "interngraph-entry-regional.vvv.facebook.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "10.110.135.19"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "facebook-core:facebook.com"
+      ],
+      "status": "quarantine"
+    },
+    "interngraph.staging.scgraph.facebook.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 143,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:46:23Z",
+      "hostname": "interngraph.staging.scgraph.facebook.com",
+      "ipv4": [],
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -1489,58 +1521,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.135.19"
-          ],
-          "status": "NON_GLOBAL_A"
-        },
-        "9.9.9.9": {
-          "canonical_name": "interngraph-entry-regional.vvv.facebook.com",
-          "detail": "A records exist, but none are public unicast IPv4 addresses",
-          "ipv4": [],
-          "non_global_ipv4": [
-            "10.110.159.14"
-          ],
-          "status": "NON_GLOBAL_A"
-        }
-      },
-      "safety_reason": "NON_GLOBAL_A",
-      "sources": [
-        "facebook-core:facebook.com"
-      ],
-      "status": "quarantine"
-    },
-    "interngraph.staging.scgraph.facebook.com": {
-      "canonical_name": null,
-      "consecutive_negative_checks": 142,
-      "ever_validated": false,
-      "expired_at": null,
-      "first_seen": "2026-08-21T08:46:23Z",
-      "hostname": "interngraph.staging.scgraph.facebook.com",
-      "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
-      "last_result": "NEGATIVE",
-      "last_success": null,
-      "negative_observations": 142,
-      "negative_since": "2026-08-21T08:46:23Z",
-      "quarantined_at": "2026-08-28T14:33:21Z",
-      "resolver_results": {
-        "1.1.1.1": {
-          "canonical_name": "interngraph-entry-regional.vvv.facebook.com",
-          "detail": "A records exist, but none are public unicast IPv4 addresses",
-          "ipv4": [],
-          "non_global_ipv4": [
-            "10.110.159.14"
-          ],
-          "status": "NON_GLOBAL_A"
-        },
-        "8.8.8.8": {
-          "canonical_name": "interngraph-entry-regional.vvv.facebook.com",
-          "detail": "A records exist, but none are public unicast IPv4 addresses",
-          "ipv4": [],
-          "non_global_ipv4": [
-            "10.110.159.14"
+            "10.110.143.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -1568,14 +1549,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "internmc.facebook.com",
       "ipv4": [
-        "57.144.104.134",
-        "57.145.20.134",
-        "157.240.254.1"
+        "57.144.204.134"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1583,21 +1562,21 @@
         "1.1.1.1": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.145.20.134"
+            "57.144.204.134"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.1"
+            "57.144.204.134"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.134"
+            "57.144.204.134"
           ],
           "status": "OK"
         }
@@ -1610,18 +1589,18 @@
     },
     "internmcr.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "internmcr.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -1652,14 +1631,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "latest.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.194.141",
-        "157.240.254.12"
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1667,21 +1644,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1694,18 +1671,18 @@
     },
     "llama-ztp.corp.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "llama-ztp.corp.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -1736,14 +1713,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "m.alpha.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.194.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1751,21 +1727,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.141"
+            "57.145.20.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1784,14 +1760,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "m.beta.facebook.com",
       "ipv4": [
-        "57.144.20.141",
-        "57.144.104.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1799,21 +1774,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.20.141"
+            "57.145.20.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -1832,14 +1807,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "m.facebook.com",
       "ipv4": [
-        "57.144.104.1",
-        "57.144.194.1",
-        "157.240.254.35"
+        "57.144.204.1",
+        "157.240.26.35"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1847,21 +1821,21 @@
         "1.1.1.1": {
           "canonical_name": "star-mini.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.1"
+            "157.240.26.35"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star-mini.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.35"
+            "57.144.204.1"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star-mini.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.1"
+            "57.144.204.1"
           ],
           "status": "OK"
         }
@@ -1880,14 +1854,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "m.intern.facebook.com",
       "ipv4": [
-        "57.144.104.146",
-        "57.145.20.146",
-        "157.240.254.18"
+        "57.144.172.146",
+        "57.144.204.146"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1895,21 +1868,21 @@
         "1.1.1.1": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.145.20.146"
+            "57.144.172.146"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.18"
+            "57.144.204.146"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "extern.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.146"
+            "57.144.204.146"
           ],
           "status": "OK"
         }
@@ -1928,14 +1901,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "m.internmc.facebook.com",
       "ipv4": [
-        "57.144.104.134",
-        "57.144.194.134",
-        "157.240.254.1"
+        "57.144.204.134"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1943,21 +1914,21 @@
         "1.1.1.1": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.134"
+            "57.144.204.134"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.1"
+            "57.144.204.134"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.134"
+            "57.144.204.134"
           ],
           "status": "OK"
         }
@@ -1970,18 +1941,18 @@
     },
     "manifold.facebook.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 141,
+      "consecutive_negative_checks": 142,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "manifold.facebook.net",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 141,
+      "negative_observations": 142,
       "negative_since": "2026-08-21T09:10:25Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2012,13 +1983,12 @@
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "mirror.facebook.net",
       "ipv4": [
-        "163.114.130.31",
-        "163.114.132.32"
+        "163.114.130.31"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2026,14 +1996,14 @@
         "1.1.1.1": {
           "canonical_name": "mirror.glbx.thefacebook.com",
           "ipv4": [
-            "163.114.132.32"
+            "163.114.130.31"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mirror.glbx.thefacebook.com",
           "ipv4": [
-            "163.114.132.32"
+            "163.114.130.31"
           ],
           "status": "OK"
         },
@@ -2059,13 +2029,14 @@
       "first_seen": "2026-08-27T00:00:46Z",
       "hostname": "msgin-regional.vvv.facebook.com",
       "ipv4": [
+        "66.220.149.251",
         "173.252.82.250",
         "173.252.87.251"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2073,21 +2044,21 @@
         "1.1.1.1": {
           "canonical_name": "msgin-regional.vvv.facebook.com",
           "ipv4": [
-            "173.252.82.250"
+            "66.220.149.251"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "msgin-regional.vvv.facebook.com",
           "ipv4": [
-            "173.252.87.251"
+            "173.252.82.250"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "msgin-regional.vvv.facebook.com",
           "ipv4": [
-            "173.252.82.250"
+            "173.252.87.251"
           ],
           "status": "OK"
         }
@@ -2100,18 +2071,18 @@
     },
     "msgin.vvv.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "msgin.vvv.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2136,18 +2107,18 @@
     },
     "newdev.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "newdev.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2178,14 +2149,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "p.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.200.141",
-        "157.240.254.12"
+        "57.144.204.141",
+        "57.145.20.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2193,21 +2163,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.200.141"
+            "57.145.20.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -2226,14 +2196,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "payments.facebook.com",
       "ipv4": [
-        "57.144.20.141",
-        "57.144.104.141",
-        "157.240.254.12"
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2241,21 +2209,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.20.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -2274,14 +2242,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "prod.facebook.com",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.194.141",
+        "57.144.204.141",
         "157.240.254.12"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2289,21 +2256,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.141"
+            "157.240.254.12"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -2316,18 +2283,18 @@
     },
     "prod.scgraph.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "prod.scgraph.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2336,7 +2303,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.135.19"
+            "10.110.199.18"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -2345,7 +2312,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.135.19"
+            "10.110.143.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -2367,18 +2334,18 @@
     },
     "rampart.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "rampart.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2409,14 +2376,13 @@
       "first_seen": "2026-08-22T14:51:26Z",
       "hostname": "registry.x2p.facebook.net",
       "ipv4": [
-        "57.144.21.129",
-        "57.144.105.129",
-        "157.240.254.222"
+        "57.144.205.129",
+        "157.240.26.222"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2424,21 +2390,21 @@
         "1.1.1.1": {
           "canonical_name": "edge-x2p.c10r.facebook.com",
           "ipv4": [
-            "57.144.21.129"
+            "157.240.26.222"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "edge-x2p.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.222"
+            "57.144.205.129"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "edge-x2p.c10r.facebook.com",
           "ipv4": [
-            "57.144.105.129"
+            "57.144.205.129"
           ],
           "status": "OK"
         }
@@ -2451,18 +2417,18 @@
     },
     "scgraph.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "scgraph.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2480,7 +2446,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.151.15"
+            "10.110.143.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -2489,7 +2455,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.135.19"
+            "10.110.199.18"
           ],
           "status": "NON_GLOBAL_A"
         }
@@ -2508,14 +2474,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.alpha.facebook.com",
       "ipv4": [
-        "57.144.20.139",
-        "57.144.104.139",
-        "157.240.254.9"
+        "57.144.204.139",
+        "57.145.20.139"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2523,21 +2488,21 @@
         "1.1.1.1": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.20.139"
+            "57.145.20.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.9"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.139"
+            "57.144.204.139"
           ],
           "status": "OK"
         }
@@ -2556,14 +2521,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.beta.facebook.com",
       "ipv4": [
-        "57.144.104.139",
-        "57.144.200.139",
+        "57.144.204.139",
         "157.240.254.9"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2571,21 +2535,21 @@
         "1.1.1.1": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.200.139"
+            "157.240.254.9"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.9"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.139"
+            "57.144.204.139"
           ],
           "status": "OK"
         }
@@ -2604,14 +2568,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.facebook.com",
       "ipv4": [
-        "57.144.104.139",
-        "57.144.194.139",
-        "157.240.254.9"
+        "57.144.204.139",
+        "157.240.26.14"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2619,21 +2582,21 @@
         "1.1.1.1": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.139"
+            "157.240.26.14"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.9"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.139"
+            "57.144.204.139"
           ],
           "status": "OK"
         }
@@ -2652,14 +2615,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.intern.facebook.com",
       "ipv4": [
-        "57.144.104.134",
-        "57.144.194.134",
-        "157.240.254.1"
+        "57.144.172.134",
+        "57.144.204.134"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2667,21 +2629,21 @@
         "1.1.1.1": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.134"
+            "57.144.172.134"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.1"
+            "57.144.204.134"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.134"
+            "57.144.204.134"
           ],
           "status": "OK"
         }
@@ -2700,14 +2662,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.internmc.facebook.com",
       "ipv4": [
-        "57.144.104.134",
-        "57.144.194.134",
-        "157.240.254.1"
+        "57.144.204.134",
+        "157.240.26.23"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2715,21 +2676,21 @@
         "1.1.1.1": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.134"
+            "157.240.26.23"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.1"
+            "57.144.204.134"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "intern-managed-client.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.134"
+            "57.144.204.134"
           ],
           "status": "OK"
         }
@@ -2742,18 +2703,18 @@
     },
     "secure.internmcr.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.internmcr.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2784,14 +2745,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.latest.facebook.com",
       "ipv4": [
-        "57.144.104.139",
-        "57.144.218.139",
-        "157.240.254.9"
+        "57.144.204.139"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2799,21 +2758,21 @@
         "1.1.1.1": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.139"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.9"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.139"
+            "57.144.204.139"
           ],
           "status": "OK"
         }
@@ -2832,14 +2791,14 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.prod.facebook.com",
       "ipv4": [
-        "57.144.104.139",
-        "57.144.218.139",
-        "157.240.254.9"
+        "57.144.172.139",
+        "57.144.194.139",
+        "57.144.204.139"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2847,21 +2806,21 @@
         "1.1.1.1": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.139"
+            "57.144.172.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.9"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.139"
+            "57.144.194.139"
           ],
           "status": "OK"
         }
@@ -2880,14 +2839,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "secure.trunkstable.facebook.com",
       "ipv4": [
-        "57.144.104.139",
-        "57.144.194.139",
-        "157.240.254.9"
+        "57.144.204.139",
+        "57.145.20.139"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2895,21 +2853,21 @@
         "1.1.1.1": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.139"
+            "57.145.20.139"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.9"
+            "57.144.204.139"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "secure.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.139"
+            "57.144.204.139"
           ],
           "status": "OK"
         }
@@ -2928,14 +2886,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "shortwave.facebook.com",
       "ipv4": [
-        "57.144.104.131",
-        "57.144.200.131",
-        "157.240.254.4"
+        "57.144.204.131",
+        "157.240.26.16"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2943,21 +2900,21 @@
         "1.1.1.1": {
           "canonical_name": "shortwave.c10r.facebook.com",
           "ipv4": [
-            "57.144.200.131"
+            "157.240.26.16"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "shortwave.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.4"
+            "57.144.204.131"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "shortwave.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.131"
+            "57.144.204.131"
           ],
           "status": "OK"
         }
@@ -2970,18 +2927,18 @@
     },
     "silfra.facebook.net": {
       "canonical_name": null,
-      "consecutive_negative_checks": 141,
+      "consecutive_negative_checks": 142,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "silfra.facebook.net",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 141,
+      "negative_observations": 142,
       "negative_since": "2026-08-21T09:10:25Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -2990,7 +2947,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.151.5"
+            "10.110.135.10"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -2999,7 +2956,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.199.9"
+            "10.110.159.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -3021,18 +2978,18 @@
     },
     "smtpin.mx.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "smtpin.mx.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3064,12 +3021,12 @@
       "hostname": "smtpin.vvv.facebook.com",
       "ipv4": [
         "66.220.149.251",
-        "173.252.82.250"
+        "173.252.87.251"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3077,21 +3034,21 @@
         "1.1.1.1": {
           "canonical_name": "smtpin.vvv.facebook.com",
           "ipv4": [
-            "66.220.149.251"
+            "173.252.87.251"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "smtpin.vvv.facebook.com",
           "ipv4": [
-            "173.252.82.250"
+            "66.220.149.251"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "smtpin.vvv.facebook.com",
           "ipv4": [
-            "66.220.149.251"
+            "173.252.87.251"
           ],
           "status": "OK"
         }
@@ -3110,14 +3067,12 @@
       "first_seen": "2026-08-21T09:10:25Z",
       "hostname": "socialplugin.facebook.net",
       "ipv4": [
-        "57.144.104.141",
-        "57.144.194.141",
-        "157.240.254.12"
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3125,21 +3080,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.194.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -3152,18 +3107,18 @@
     },
     "staging.scgraph.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "staging.scgraph.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3172,7 +3127,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.199.18"
+            "10.110.143.20"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -3181,7 +3136,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.135.19"
+            "10.110.159.14"
           ],
           "status": "NON_GLOBAL_A"
         },
@@ -3190,7 +3145,7 @@
           "detail": "A records exist, but none are public unicast IPv4 addresses",
           "ipv4": [],
           "non_global_ipv4": [
-            "10.110.159.14"
+            "10.110.135.19"
           ],
           "status": "NON_GLOBAL_A"
         }
@@ -3203,18 +3158,18 @@
     },
     "symsrv.vip.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "symsrv.vip.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3245,14 +3200,12 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "trunkstable.facebook.com",
       "ipv4": [
-        "57.144.20.141",
-        "57.144.104.141",
-        "157.240.254.12"
+        "57.144.204.141"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3260,21 +3213,21 @@
         "1.1.1.1": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.20.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.12"
+            "57.144.204.141"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.141"
+            "57.144.204.141"
           ],
           "status": "OK"
         }
@@ -3287,18 +3240,18 @@
     },
     "up.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "up.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3323,18 +3276,18 @@
     },
     "v6.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "v6.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3365,14 +3318,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "wa.me",
       "ipv4": [
-        "57.144.105.32",
-        "57.144.219.32",
+        "57.144.205.32",
         "157.240.254.60"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3380,21 +3332,21 @@
         "1.1.1.1": {
           "canonical_name": "wa.me",
           "ipv4": [
-            "57.144.219.32"
+            "157.240.254.60"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "wa.me",
           "ipv4": [
-            "157.240.254.60"
+            "57.144.205.32"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "wa.me",
           "ipv4": [
-            "57.144.105.32"
+            "57.144.205.32"
           ],
           "status": "OK"
         }
@@ -3414,14 +3366,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "web.whatsapp.com",
       "ipv4": [
-        "57.144.105.32",
-        "57.144.201.32",
-        "157.240.254.60"
+        "57.144.195.32",
+        "57.144.205.32"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3429,21 +3380,21 @@
         "1.1.1.1": {
           "canonical_name": "mmx-ds.cdn.whatsapp.net",
           "ipv4": [
-            "57.144.201.32"
+            "57.144.205.32"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mmx-ds.cdn.whatsapp.net",
           "ipv4": [
-            "157.240.254.60"
+            "57.144.205.32"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mmx-ds.cdn.whatsapp.net",
           "ipv4": [
-            "57.144.105.32"
+            "57.144.195.32"
           ],
           "status": "OK"
         }
@@ -3462,14 +3413,12 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "whatsapp.com",
       "ipv4": [
-        "57.144.105.32",
-        "57.144.201.32",
-        "157.240.254.60"
+        "57.144.205.32"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3477,21 +3426,21 @@
         "1.1.1.1": {
           "canonical_name": "whatsapp.com",
           "ipv4": [
-            "57.144.201.32"
+            "57.144.205.32"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "whatsapp.com",
           "ipv4": [
-            "157.240.254.60"
+            "57.144.205.32"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "whatsapp.com",
           "ipv4": [
-            "57.144.105.32"
+            "57.144.205.32"
           ],
           "status": "OK"
         }
@@ -3505,18 +3454,18 @@
     },
     "wt.whatsapp.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "wt.whatsapp.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3541,18 +3490,18 @@
     },
     "www.dewey-lfs.vip.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "www.dewey-lfs.vip.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3577,18 +3526,18 @@
     },
     "www.dewey.vip.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "www.dewey.vip.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3619,14 +3568,14 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "www.facebook.com",
       "ipv4": [
-        "57.144.20.1",
         "57.144.104.1",
-        "157.240.254.35"
+        "57.144.172.1",
+        "57.144.204.1"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3634,21 +3583,21 @@
         "1.1.1.1": {
           "canonical_name": "star-mini.c10r.facebook.com",
           "ipv4": [
-            "57.144.20.1"
+            "57.144.172.1"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "star-mini.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.35"
+            "57.144.104.1"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "star-mini.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.1"
+            "57.144.204.1"
           ],
           "status": "OK"
         }
@@ -3667,14 +3616,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "www.instagram.com",
       "ipv4": [
-        "57.144.104.34",
-        "57.144.194.34",
-        "157.240.254.174"
+        "57.144.204.34",
+        "57.145.20.34"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3682,21 +3630,21 @@
         "1.1.1.1": {
           "canonical_name": "z-p42-instagram.c10r.instagram.com",
           "ipv4": [
-            "57.144.194.34"
+            "57.145.20.34"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "z-p42-instagram.c10r.instagram.com",
           "ipv4": [
-            "157.240.254.174"
+            "57.144.204.34"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "z-p42-instagram.c10r.instagram.com",
           "ipv4": [
-            "57.144.104.34"
+            "57.144.204.34"
           ],
           "status": "OK"
         }
@@ -3709,18 +3657,18 @@
     },
     "www.symsrv.vip.facebook.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 142,
+      "consecutive_negative_checks": 143,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "www.symsrv.vip.facebook.com",
       "ipv4": [],
-      "last_check": "2026-09-25T23:28:12Z",
-      "last_failure": "2026-09-25T23:28:12Z",
-      "last_negative": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
+      "last_failure": "2026-09-26T07:57:51Z",
+      "last_negative": "2026-09-26T07:57:51Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 142,
+      "negative_observations": 143,
       "negative_since": "2026-08-21T08:46:23Z",
       "quarantined_at": "2026-08-28T14:33:21Z",
       "resolver_results": {
@@ -3751,14 +3699,13 @@
       "first_seen": "2026-08-21T08:38:36Z",
       "hostname": "www.whatsapp.com",
       "ipv4": [
-        "57.144.105.32",
-        "57.145.21.32",
-        "157.240.254.60"
+        "57.144.205.32",
+        "57.145.21.32"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3773,14 +3720,14 @@
         "8.8.8.8": {
           "canonical_name": "mmx-ds.cdn.whatsapp.net",
           "ipv4": [
-            "157.240.254.60"
+            "57.144.205.32"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mmx-ds.cdn.whatsapp.net",
           "ipv4": [
-            "57.144.105.32"
+            "57.144.205.32"
           ],
           "status": "OK"
         }
@@ -3799,14 +3746,13 @@
       "first_seen": "2026-08-21T08:46:23Z",
       "hostname": "z.facebook.com",
       "ipv4": [
-        "57.144.104.6",
-        "57.144.218.6",
-        "157.240.254.37"
+        "57.144.172.6",
+        "57.144.204.6"
       ],
-      "last_check": "2026-09-25T23:28:12Z",
+      "last_check": "2026-09-26T07:57:51Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-25T23:28:12Z",
+      "last_success": "2026-09-26T07:57:51Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3814,21 +3760,21 @@
         "1.1.1.1": {
           "canonical_name": "z-m.c10r.facebook.com",
           "ipv4": [
-            "57.144.218.6"
+            "57.144.172.6"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "z-m.c10r.facebook.com",
           "ipv4": [
-            "157.240.254.37"
+            "57.144.204.6"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "z-m.c10r.facebook.com",
           "ipv4": [
-            "57.144.104.6"
+            "57.144.204.6"
           ],
           "status": "OK"
         }
@@ -3840,6 +3786,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-09-25T23:28:12Z",
+  "updated_at": "2026-09-26T07:57:51Z",
   "version": 2
 }
