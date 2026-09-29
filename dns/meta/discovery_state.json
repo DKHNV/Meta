@@ -2,57 +2,57 @@
   "sources": {
     "certspotter": {
       "cdninstagram.com": {
-        "after": 17451559112,
-        "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "after": 17470768173,
+        "caught_up": false,
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "facebook.com": {
-        "after": 17452083336,
-        "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "after": 17471231614,
+        "caught_up": false,
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "facebook.net": {
-        "after": 17452090160,
-        "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "after": 17471237833,
+        "caught_up": false,
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "fbsbx.com": {
-        "after": 17452085039,
-        "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "after": 17471234415,
+        "caught_up": false,
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "wa.me": {
-        "after": 17451939484,
-        "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "after": 17471104784,
+        "caught_up": false,
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "whatsapp.com": {
-        "after": 17452076028,
-        "caught_up": true,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "after": 17471225506,
+        "caught_up": false,
+        "last_poll": "2026-09-29T08:57:43Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-09-28T20:42:36Z"
+        "last_poll": "2026-09-29T08:57:43Z"
       }
     }
   },
-  "updated_at": "2026-09-28T20:42:36Z",
+  "updated_at": "2026-09-29T08:57:43Z",
   "version": 2
 }
