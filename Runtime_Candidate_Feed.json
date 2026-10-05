@@ -11,7 +11,7 @@
       "last_external_at": "2026-10-04T04:37:24Z",
       "last_observed": "2026-10-04T04:39:31Z",
       "observation_count": 28,
-      "presence_cycles": 8712,
+      "presence_cycles": 8783,
       "reactivation_count": 8,
       "seen_dates": [
         "2026-08-30",
@@ -41,7 +41,7 @@
       "last_external_at": "2026-10-05T09:36:45Z",
       "last_observed": "2026-10-05T09:50:35Z",
       "observation_count": 22,
-      "presence_cycles": 4459,
+      "presence_cycles": 4530,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-29",
@@ -67,7 +67,7 @@
       "last_external_at": "2026-10-05T09:56:25Z",
       "last_observed": "2026-10-05T10:00:41Z",
       "observation_count": 54,
-      "presence_cycles": 10445,
+      "presence_cycles": 10516,
       "reactivation_count": 8,
       "seen_dates": [
         "2026-08-29",
@@ -89,16 +89,16 @@
     {
       "active_cycles": 28,
       "candidate_id": "c7a9a251085808c84668e0409368cd80f37244a5357eb53c53e446595b931f96",
-      "current_presence": false,
-      "current_routing_status": "absent",
+      "current_presence": true,
+      "current_routing_status": "grace",
       "first_observed": "2026-08-30T10:59:16Z",
       "hostname": "graph.whatsapp.com",
       "id_version": 1,
-      "last_external_at": "2026-09-30T12:51:33Z",
-      "last_observed": "2026-09-30T12:52:57Z",
-      "observation_count": 36,
-      "presence_cycles": 8268,
-      "reactivation_count": 7,
+      "last_external_at": "2026-10-05T20:49:31Z",
+      "last_observed": "2026-10-05T20:52:02Z",
+      "observation_count": 37,
+      "presence_cycles": 8270,
+      "reactivation_count": 8,
       "seen_dates": [
         "2026-08-30",
         "2026-08-31",
@@ -109,7 +109,8 @@
         "2026-09-23",
         "2026-09-24",
         "2026-09-27",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-05"
       ],
       "state": "observed",
       "suffix": "whatsapp.com"
@@ -166,7 +167,7 @@
       "last_external_at": "2026-10-05T09:36:46Z",
       "last_observed": "2026-10-05T09:40:27Z",
       "observation_count": 36,
-      "presence_cycles": 8927,
+      "presence_cycles": 8998,
       "reactivation_count": 8,
       "seen_dates": [
         "2026-08-29",
@@ -216,7 +217,7 @@
       "last_external_at": "2026-10-05T09:46:20Z",
       "last_observed": "2026-10-05T09:50:35Z",
       "observation_count": 44,
-      "presence_cycles": 10449,
+      "presence_cycles": 10520,
       "reactivation_count": 7,
       "seen_dates": [
         "2026-08-29",
@@ -236,8 +237,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "499eaced56eb2900e1ee53ec71272c527bd787277d863c6c5cbd0ec8ac40e577",
-  "generated_at": "2026-10-05T14:58:03Z",
+  "content_hash": "0c37be65274adb0559e08b8ee12debf3f80551c0a06d9165a179d0ca40c637c6",
+  "generated_at": "2026-10-05T20:57:03Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
