@@ -68,7 +68,7 @@
       "last_external_at": "2026-10-09T07:14:20Z",
       "last_observed": "2026-10-09T07:14:34Z",
       "observation_count": 55,
-      "presence_cycles": 11511,
+      "presence_cycles": 11583,
       "reactivation_count": 9,
       "seen_dates": [
         "2026-08-29",
@@ -240,8 +240,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "1f2a252b35f409289a14adbbd25613c746fcc13564be500cd11da1db2f30f02c",
-  "generated_at": "2026-10-09T08:55:23Z",
+  "content_hash": "918c2aa7acb87e3fd5a720bc9d8766fe3edff0fe5e11ec1365df829790980d11",
+  "generated_at": "2026-10-09T14:58:26Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
