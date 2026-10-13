@@ -4,55 +4,55 @@
       "cdninstagram.com": {
         "after": 17750237584,
         "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "facebook.com": {
-        "after": 17757579058,
-        "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "after": 17768849145,
+        "caught_up": false,
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "facebook.net": {
-        "after": 17750727510,
-        "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "after": 17769602658,
+        "caught_up": false,
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "fbsbx.com": {
         "after": 17750718000,
         "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "wa.me": {
         "after": 17750591381,
         "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "whatsapp.com": {
         "after": 17750707149,
         "caught_up": true,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-13T20:19:33Z"
+        "last_poll": "2026-10-13T23:49:39Z"
       }
     }
   },
-  "updated_at": "2026-10-13T20:19:33Z",
+  "updated_at": "2026-10-13T23:49:39Z",
   "version": 2
 }
