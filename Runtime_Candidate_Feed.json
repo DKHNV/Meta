@@ -11,7 +11,7 @@
       "last_external_at": "2026-10-12T17:49:37Z",
       "last_observed": "2026-10-12T17:52:45Z",
       "observation_count": 34,
-      "presence_cycles": 10011,
+      "presence_cycles": 10082,
       "reactivation_count": 11,
       "seen_dates": [
         "2026-08-30",
@@ -71,7 +71,7 @@
       "last_external_at": "2026-10-11T09:33:43Z",
       "last_observed": "2026-10-11T09:36:41Z",
       "observation_count": 56,
-      "presence_cycles": 12504,
+      "presence_cycles": 12575,
       "reactivation_count": 10,
       "seen_dates": [
         "2026-08-29",
@@ -122,24 +122,25 @@
       "suffix": "whatsapp.com"
     },
     {
-      "active_cycles": 17,
+      "active_cycles": 19,
       "candidate_id": "6cd8900a506d444dafa1e0de8337a6bf61ec1a2a933f31dd9d1622a1f60168b7",
-      "current_presence": false,
-      "current_routing_status": "absent",
+      "current_presence": true,
+      "current_routing_status": "expired",
       "first_observed": "2026-09-01T13:52:55Z",
       "hostname": "web.facebook.com",
       "id_version": 1,
-      "last_external_at": "2026-10-06T20:39:21Z",
-      "last_observed": "2026-10-06T20:43:21Z",
-      "observation_count": 23,
-      "presence_cycles": 4574,
-      "reactivation_count": 4,
+      "last_external_at": "2026-10-12T22:39:29Z",
+      "last_observed": "2026-10-12T22:41:05Z",
+      "observation_count": 24,
+      "presence_cycles": 4626,
+      "reactivation_count": 5,
       "seen_dates": [
         "2026-09-01",
         "2026-09-02",
         "2026-09-23",
         "2026-09-27",
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-12"
       ],
       "state": "observed",
       "suffix": "facebook.com"
@@ -174,7 +175,7 @@
       "last_external_at": "2026-10-11T09:03:11Z",
       "last_observed": "2026-10-11T09:06:27Z",
       "observation_count": 39,
-      "presence_cycles": 10788,
+      "presence_cycles": 10859,
       "reactivation_count": 9,
       "seen_dates": [
         "2026-08-29",
@@ -246,8 +247,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "3759a6d5814c2f54104d430109b65c0b351ffb1407f7e2b067aa25d1d0b3ce87",
-  "generated_at": "2026-10-12T20:58:42Z",
+  "content_hash": "f061afedd90f19cf4ee26ac83e0896b850f73ea84675579140bb919d7c65875c",
+  "generated_at": "2026-10-13T02:58:19Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
