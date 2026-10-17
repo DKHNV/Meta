@@ -11,7 +11,7 @@
       "last_external_at": "2026-10-16T03:46:22Z",
       "last_observed": "2026-10-16T03:46:35Z",
       "observation_count": 36,
-      "presence_cycles": 11148,
+      "presence_cycles": 11219,
       "reactivation_count": 13,
       "seen_dates": [
         "2026-08-30",
@@ -74,7 +74,7 @@
       "last_external_at": "2026-10-15T20:03:52Z",
       "last_observed": "2026-10-15T20:13:06Z",
       "observation_count": 59,
-      "presence_cycles": 13757,
+      "presence_cycles": 13828,
       "reactivation_count": 11,
       "seen_dates": [
         "2026-08-29",
@@ -137,7 +137,7 @@
       "last_external_at": "2026-10-16T09:33:27Z",
       "last_observed": "2026-10-16T09:36:24Z",
       "observation_count": 27,
-      "presence_cycles": 5416,
+      "presence_cycles": 5487,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-09-01",
@@ -173,16 +173,16 @@
     {
       "active_cycles": 46,
       "candidate_id": "622b6d5d27a5ca33e178e6e7a27cf09513171101d1c19c9d695f9cbfbd919490",
-      "current_presence": false,
-      "current_routing_status": "absent",
+      "current_presence": true,
+      "current_routing_status": "expired",
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "www.facebook.com",
       "id_version": 1,
-      "last_external_at": "2026-10-15T11:24:27Z",
-      "last_observed": "2026-10-15T11:28:14Z",
-      "observation_count": 40,
-      "presence_cycles": 11451,
-      "reactivation_count": 10,
+      "last_external_at": "2026-10-17T11:15:45Z",
+      "last_observed": "2026-10-17T11:16:38Z",
+      "observation_count": 41,
+      "presence_cycles": 11495,
+      "reactivation_count": 11,
       "seen_dates": [
         "2026-08-29",
         "2026-09-02",
@@ -197,7 +197,8 @@
         "2026-10-05",
         "2026-10-10",
         "2026-10-11",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-17"
       ],
       "state": "observed",
       "suffix": "facebook.com"
@@ -254,8 +255,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "dd301d9048bc9d528369eacb23876c5a9ca0d0b97742f9ffad418dd12132e74d",
-  "generated_at": "2026-10-17T08:55:20Z",
+  "content_hash": "11ff804b70c66213890f27b8ffd6d38eaa99351d723050a30576db2e42f7c7ed",
+  "generated_at": "2026-10-17T14:58:18Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
