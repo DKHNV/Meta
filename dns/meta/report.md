@@ -1,6 +1,6 @@
 # Meta DNS Maintenance Report
 
-Generated: `2026-10-17T22:35:13Z`
+Generated: `2026-10-18T07:23:46Z`
 
 ## DNS lifecycle
 
@@ -40,14 +40,14 @@ Average stability: **92.9%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `msgin-regional.vvv.facebook.com` | dead | `2026-08-27T00:00:46Z` | 189 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 45 |
-| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 212 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 45 |
-| `vault.x2p.facebook.net` | unknown | `2026-10-15T07:41:37Z` | 12 | TLS_CERT_ERROR | 57.144.221.129, 57.144.5.129 | 0.0 | 12 |
-| `vaulthosted.x2p.facebook.net` | unknown | `2026-10-15T07:41:37Z` | 12 | TLS_CERT_ERROR | 157.240.11.220, 57.144.221.129, 57.144.5.129 | 0.0 | 12 |
+| `msgin-regional.vvv.facebook.com` | dead | `2026-08-27T00:00:46Z` | 190 | TIMEOUT | 173.252.82.250, 173.252.87.251, 66.220.149.251 | 0.0 | 45 |
+| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 213 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 45 |
+| `vault.x2p.facebook.net` | unknown | `2026-10-15T07:41:37Z` | 13 | TLS_CERT_ERROR | 57.144.201.129, 57.144.79.129, 57.145.21.129 | 0.0 | 13 |
+| `vaulthosted.x2p.facebook.net` | unknown | `2026-10-15T07:41:37Z` | 13 | TLS_CERT_ERROR | 57.144.201.129, 57.144.79.129, 57.145.21.129 | 0.0 | 13 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-17T22:35:13Z`
+Discovery state updated: `2026-10-18T07:23:46Z`
 
 ## Notes
 
