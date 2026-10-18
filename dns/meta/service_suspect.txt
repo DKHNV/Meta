@@ -1,0 +1,2 @@
+vault.x2p.facebook.net
+vaulthosted.x2p.facebook.net
