@@ -43,6 +43,8 @@ secure.trunkstable.facebook.com
 shortwave.facebook.com
 socialplugin.facebook.net
 trunkstable.facebook.com
+vault.x2p.facebook.net
+vaulthosted.x2p.facebook.net
 wa.me
 web.whatsapp.com
 whatsapp.com
