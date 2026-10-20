@@ -2,57 +2,57 @@
   "sources": {
     "certspotter": {
       "cdninstagram.com": {
-        "after": 17858971789,
-        "caught_up": true,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "after": 17877096316,
+        "caught_up": false,
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "facebook.com": {
-        "after": 17871346029,
+        "after": 17877349871,
         "caught_up": false,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "facebook.net": {
-        "after": 17871346029,
+        "after": 17877369120,
         "caught_up": false,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "fbsbx.com": {
-        "after": 17871346029,
+        "after": 17877351625,
         "caught_up": false,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "wa.me": {
-        "after": 17859347717,
-        "caught_up": true,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "after": 17877277913,
+        "caught_up": false,
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "whatsapp.com": {
-        "after": 17859466347,
-        "caught_up": true,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "after": 17877342528,
+        "caught_up": false,
+        "last_poll": "2026-10-20T07:53:15Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-10-19T23:53:53Z"
+        "last_poll": "2026-10-20T07:53:15Z"
       }
     }
   },
-  "updated_at": "2026-10-19T23:53:53Z",
+  "updated_at": "2026-10-20T07:53:15Z",
   "version": 2
 }
