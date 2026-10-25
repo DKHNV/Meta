@@ -11,7 +11,7 @@
       "last_external_at": "2026-10-25T03:11:34Z",
       "last_observed": "2026-10-25T03:16:57Z",
       "observation_count": 49,
-      "presence_cycles": 12962,
+      "presence_cycles": 13034,
       "reactivation_count": 16,
       "seen_dates": [
         "2026-08-30",
@@ -109,7 +109,7 @@
       "suffix": "instagram.com"
     },
     {
-      "active_cycles": 95,
+      "active_cycles": 96,
       "candidate_id": "4c687cb9a6f1471ae5dadcc1bcb79580d0c10e1b9ce3a710ddcbe83ebece7d65",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -119,7 +119,7 @@
       "last_external_at": "2026-10-24T17:22:10Z",
       "last_observed": "2026-10-24T17:26:33Z",
       "observation_count": 76,
-      "presence_cycles": 15979,
+      "presence_cycles": 16051,
       "reactivation_count": 16,
       "seen_dates": [
         "2026-08-29",
@@ -299,17 +299,17 @@
       "suffix": "whatsapp.com"
     },
     {
-      "active_cycles": 53,
+      "active_cycles": 55,
       "candidate_id": "622b6d5d27a5ca33e178e6e7a27cf09513171101d1c19c9d695f9cbfbd919490",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "www.facebook.com",
       "id_version": 1,
-      "last_external_at": "2026-10-25T03:03:46Z",
-      "last_observed": "2026-10-25T03:27:02Z",
-      "observation_count": 51,
-      "presence_cycles": 13456,
+      "last_external_at": "2026-10-25T14:25:43Z",
+      "last_observed": "2026-10-25T14:38:08Z",
+      "observation_count": 53,
+      "presence_cycles": 13528,
       "reactivation_count": 15,
       "seen_dates": [
         "2026-08-29",
@@ -388,8 +388,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "aa9317aff767a52fa017b008c5d86acaca2eb27051b12a8d11862ab7849e4eff",
-  "generated_at": "2026-10-25T09:55:32Z",
+  "content_hash": "f03dfe8b36b23325c46801826da3e750d6b196967ba5b645e535cca0d7180f60",
+  "generated_at": "2026-10-25T15:58:55Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
