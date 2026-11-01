@@ -4,55 +4,55 @@
       "cdninstagram.com": {
         "after": 18099027705,
         "caught_up": true,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "facebook.com": {
         "after": 18099529710,
-        "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "caught_up": true,
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "facebook.net": {
         "after": 18099567804,
-        "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "caught_up": true,
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "fbsbx.com": {
         "after": 18099534603,
-        "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "caught_up": true,
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "wa.me": {
         "after": 18099370553,
-        "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "caught_up": true,
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "whatsapp.com": {
         "after": 18099513557,
-        "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "caught_up": true,
+        "last_poll": "2026-11-01T19:52:26Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-11-01T10:45:26Z"
+        "last_poll": "2026-11-01T19:52:26Z"
       }
     }
   },
-  "updated_at": "2026-11-01T10:45:26Z",
+  "updated_at": "2026-11-01T19:52:26Z",
   "version": 2
 }
