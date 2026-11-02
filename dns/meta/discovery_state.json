@@ -3,56 +3,56 @@
     "certspotter": {
       "cdninstagram.com": {
         "after": 18117379732,
-        "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "caught_up": true,
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "facebook.com": {
         "after": 18117913882,
-        "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "caught_up": true,
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "facebook.net": {
         "after": 18117935739,
-        "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "caught_up": true,
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "fbcdn.com": {
         "after": null,
         "caught_up": true,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "fbcdn.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "fbsbx.com": {
         "after": 18117915042,
-        "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "caught_up": true,
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "instagram.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "wa.me": {
         "after": 18117782695,
-        "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "caught_up": true,
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "whatsapp.com": {
         "after": 18117905531,
-        "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "caught_up": true,
+        "last_poll": "2026-11-02T11:37:06Z"
       },
       "whatsapp.net": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-11-02T00:59:19Z"
+        "last_poll": "2026-11-02T11:37:06Z"
       }
     }
   },
-  "updated_at": "2026-11-02T00:59:19Z",
+  "updated_at": "2026-11-02T11:37:06Z",
   "version": 2
 }
