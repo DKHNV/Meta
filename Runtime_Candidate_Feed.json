@@ -95,7 +95,7 @@
       "last_external_at": "2026-11-07T13:45:21Z",
       "last_observed": "2026-11-07T13:47:02Z",
       "observation_count": 7,
-      "presence_cycles": 294,
+      "presence_cycles": 366,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-11-06",
@@ -115,7 +115,7 @@
       "last_external_at": "2026-11-07T11:07:34Z",
       "last_observed": "2026-11-07T11:20:30Z",
       "observation_count": 45,
-      "presence_cycles": 8071,
+      "presence_cycles": 8143,
       "reactivation_count": 12,
       "seen_dates": [
         "2026-08-29",
@@ -141,7 +141,7 @@
       "active_cycles": 4,
       "candidate_id": "200c00df98eb5e54dcfd1019b6c93131a573992fb97d612de2934100eba02283",
       "current_presence": false,
-      "current_routing_status": "expired",
+      "current_routing_status": "absent",
       "first_observed": "2026-11-06T15:59:14Z",
       "hostname": "edge-mqtt.facebook.com",
       "id_version": 1,
@@ -160,7 +160,7 @@
       "active_cycles": 3,
       "candidate_id": "8cc9955bd84b1992a176cac5566e4ca01be963a39319b617c424a02ab3a862df",
       "current_presence": false,
-      "current_routing_status": "expired",
+      "current_routing_status": "absent",
       "first_observed": "2026-11-06T18:40:50Z",
       "hostname": "gateway.facebook.com",
       "id_version": 1,
@@ -186,7 +186,7 @@
       "last_external_at": "2026-11-07T21:02:35Z",
       "last_observed": "2026-11-07T21:21:13Z",
       "observation_count": 11,
-      "presence_cycles": 466,
+      "presence_cycles": 538,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-10-23",
@@ -207,7 +207,7 @@
       "last_external_at": "2026-11-07T14:25:34Z",
       "last_observed": "2026-11-07T14:32:24Z",
       "observation_count": 12,
-      "presence_cycles": 466,
+      "presence_cycles": 538,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-10-23",
@@ -229,7 +229,7 @@
       "last_external_at": "2026-11-07T11:19:54Z",
       "last_observed": "2026-11-07T11:20:30Z",
       "observation_count": 102,
-      "presence_cycles": 19716,
+      "presence_cycles": 19788,
       "reactivation_count": 20,
       "seen_dates": [
         "2026-08-29",
@@ -273,7 +273,7 @@
       "last_external_at": "2026-11-07T13:35:26Z",
       "last_observed": "2026-11-07T13:41:59Z",
       "observation_count": 10,
-      "presence_cycles": 783,
+      "presence_cycles": 855,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-10-23",
@@ -325,7 +325,7 @@
       "last_external_at": "2026-11-07T14:19:00Z",
       "last_observed": "2026-11-07T14:47:31Z",
       "observation_count": 12,
-      "presence_cycles": 783,
+      "presence_cycles": 855,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-10-23",
@@ -346,7 +346,7 @@
       "last_external_at": "2026-11-07T13:36:13Z",
       "last_observed": "2026-11-07T13:36:52Z",
       "observation_count": 10,
-      "presence_cycles": 783,
+      "presence_cycles": 855,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-10-23",
@@ -367,7 +367,7 @@
       "last_external_at": "2026-11-07T13:51:39Z",
       "last_observed": "2026-11-07T13:52:06Z",
       "observation_count": 10,
-      "presence_cycles": 783,
+      "presence_cycles": 855,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-10-23",
@@ -429,14 +429,14 @@
       "active_cycles": 68,
       "candidate_id": "622b6d5d27a5ca33e178e6e7a27cf09513171101d1c19c9d695f9cbfbd919490",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "expired",
       "first_observed": "2026-08-29T19:36:36Z",
       "hostname": "www.facebook.com",
       "id_version": 1,
       "last_external_at": "2026-11-07T18:02:38Z",
       "last_observed": "2026-11-07T18:54:39Z",
       "observation_count": 76,
-      "presence_cycles": 16416,
+      "presence_cycles": 16488,
       "reactivation_count": 19,
       "seen_dates": [
         "2026-08-29",
@@ -499,7 +499,7 @@
       "last_external_at": "2026-11-07T13:11:30Z",
       "last_observed": "2026-11-07T13:11:37Z",
       "observation_count": 55,
-      "presence_cycles": 12279,
+      "presence_cycles": 12351,
       "reactivation_count": 10,
       "seen_dates": [
         "2026-08-29",
@@ -523,8 +523,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "df4ced2176f2a0f2ba3f2b737054c7a95a43f677d564377c6e3b50cbccff7f25",
-  "generated_at": "2026-11-07T21:56:27Z",
+  "content_hash": "15e985574a007f54e5d54ab25fb2bcb9d1c348c296be9d2e949fb609aa8847c9",
+  "generated_at": "2026-11-08T03:59:45Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
