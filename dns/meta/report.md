@@ -1,6 +1,6 @@
 # Meta DNS Maintenance Report
 
-Generated: `2026-11-11T11:23:32Z`
+Generated: `2026-11-11T22:12:10Z`
 
 ## DNS lifecycle
 
@@ -39,13 +39,13 @@ Average stability: **96.3%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `instagram.com` | alive | `2026-11-11T01:26:05Z` | 2 | TIMEOUT | 157.240.229.174, 31.13.65.174, 31.13.88.174 | 95.0 | 40 |
-| `msgin-regional.vvv.facebook.com` | dead | `2026-08-27T00:00:46Z` | 268 | TIMEOUT | 173.252.82.250, 66.220.149.251 | 0.0 | 40 |
-| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 291 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 40 |
+| `instagram.com` | alive | `2026-11-11T01:26:05Z` | 3 | TIMEOUT | 157.240.229.174, 31.13.66.174 | 92.5 | 40 |
+| `msgin-regional.vvv.facebook.com` | dead | `2026-08-27T00:00:46Z` | 269 | TIMEOUT | 66.220.149.251 | 0.0 | 40 |
+| `smtpin.vvv.facebook.com` | dead | `2026-08-21T08:46:23Z` | 292 | TIMEOUT | 173.252.82.250, 173.252.87.251 | 0.0 | 40 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-11T11:23:32Z`
+Discovery state updated: `2026-11-11T22:12:10Z`
 
 ## Notes
 
