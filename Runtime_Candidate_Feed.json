@@ -175,7 +175,7 @@
       "last_external_at": "2026-11-26T17:22:15Z",
       "last_observed": "2026-11-26T17:32:13Z",
       "observation_count": 64,
-      "presence_cycles": 12422,
+      "presence_cycles": 12493,
       "reactivation_count": 17,
       "seen_dates": [
         "2026-08-29",
@@ -322,7 +322,7 @@
       "last_external_at": "2026-11-26T14:21:48Z",
       "last_observed": "2026-11-26T14:23:03Z",
       "observation_count": 126,
-      "presence_cycles": 24652,
+      "presence_cycles": 24723,
       "reactivation_count": 25,
       "seen_dates": [
         "2026-08-29",
@@ -602,7 +602,7 @@
       "last_external_at": "2026-11-26T19:27:07Z",
       "last_observed": "2026-11-26T19:29:38Z",
       "observation_count": 95,
-      "presence_cycles": 20955,
+      "presence_cycles": 21026,
       "reactivation_count": 24,
       "seen_dates": [
         "2026-08-29",
@@ -698,8 +698,8 @@
       "suffix": "facebook.com"
     }
   ],
-  "content_hash": "faf299b683ac8ea11b5be6bd40b7c5828e060d269538a70fe937ffaa2aaf3ca3",
-  "generated_at": "2026-11-26T21:57:33Z",
+  "content_hash": "1cb435f4a8735aece01e7fd524ca5263b3453bf048352ede52a6f6b1db61244c",
+  "generated_at": "2026-11-27T03:59:53Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
